@@ -1,32 +1,35 @@
 [
   {
     "website": "google.com",
-    "url": "https://google.com",
+    "url": "https://www.google.com",
     "rank": {
       "ahrefs": 6,
       "cloudflare": 1,
       "similarweb": 1,
-      "semrush": 2
+      "semrush": 2,
+      "crux": 1000
     }
   },
   {
     "website": "naver.com",
-    "url": "https://naver.com",
+    "url": "https://www.naver.com",
     "rank": {
       "ahrefs": 2,
       "cloudflare": 3,
       "similarweb": 2,
-      "semrush": 3
+      "semrush": 3,
+      "crux": 1000
     }
   },
   {
     "website": "youtube.com",
-    "url": "https://youtube.com",
+    "url": "https://www.youtube.com",
     "rank": {
       "ahrefs": 4,
       "cloudflare": 17,
       "similarweb": 3,
-      "semrush": 1
+      "semrush": 1,
+      "crux": 1000
     }
   },
   {
@@ -36,37 +39,274 @@
       "ahrefs": 3,
       "cloudflare": 11,
       "similarweb": 10,
-      "semrush": 5
+      "semrush": 5,
+      "crux": 1000
     }
   },
   {
     "website": "instagram.com",
-    "url": "https://instagram.com",
+    "url": "https://www.instagram.com",
     "rank": {
       "ahrefs": 5,
       "cloudflare": 18,
       "similarweb": 12,
-      "semrush": 6
+      "semrush": 6,
+      "crux": 1000
     }
   },
   {
     "website": "facebook.com",
-    "url": "https://facebook.com",
+    "url": "https://www.facebook.com",
     "rank": {
       "ahrefs": 24,
       "cloudflare": 6,
       "similarweb": 36,
-      "semrush": 11
+      "semrush": 11,
+      "crux": 1000
     }
   },
   {
     "website": "ssg.com",
-    "url": "https://ssg.com",
+    "url": "https://www.ssg.com",
     "rank": {
       "ahrefs": 93,
       "cloudflare": 80,
       "similarweb": 35,
-      "semrush": 92
+      "semrush": 92,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "x.com",
+    "url": "https://x.com",
+    "rank": {
+      "ahrefs": 20,
+      "similarweb": 23,
+      "semrush": 4,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "daum.net",
+    "url": "https://www.daum.net",
+    "rank": {
+      "ahrefs": 10,
+      "cloudflare": 35,
+      "similarweb": 7,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "coupang.com",
+    "url": "https://www.coupang.com",
+    "rank": {
+      "ahrefs": 18,
+      "cloudflare": 38,
+      "similarweb": 6,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "aliexpress.com",
+    "url": "https://www.aliexpress.com",
+    "rank": {
+      "ahrefs": 37,
+      "similarweb": 18,
+      "semrush": 16,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "nate.com",
+    "url": "https://www.nate.com",
+    "rank": {
+      "ahrefs": 43,
+      "similarweb": 16,
+      "semrush": 22,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "inven.co.kr",
+    "url": "https://inven.co.kr",
+    "rank": {
+      "tranco": 1449,
+      "ahrefs": 42,
+      "similarweb": 29,
+      "semrush": 13,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "gmarket.co.kr",
+    "url": "https://gmarket.co.kr",
+    "rank": {
+      "tranco": 5751,
+      "cloudflare": 32,
+      "similarweb": 30,
+      "semrush": 28,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "netflix.com",
+    "url": "https://www.netflix.com",
+    "rank": {
+      "ahrefs": 48,
+      "similarweb": 28,
+      "semrush": 37,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "google.co.kr",
+    "url": "https://google.co.kr",
+    "rank": {
+      "tranco": 5276,
+      "cloudflare": 25,
+      "similarweb": 45,
+      "semrush": 45,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "apple.com",
+    "url": "https://www.apple.com",
+    "rank": {
+      "ahrefs": 14,
+      "cloudflare": 9,
+      "semrush": 97,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "donga.com",
+    "url": "https://www.donga.com",
+    "rank": {
+      "ahrefs": 83,
+      "similarweb": 19,
+      "semrush": 20,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "samsung.com",
+    "url": "https://www.samsung.com",
+    "rank": {
+      "ahrefs": 62,
+      "similarweb": 22,
+      "semrush": 46,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "chosun.com",
+    "url": "https://www.chosun.com",
+    "rank": {
+      "ahrefs": 41,
+      "similarweb": 46,
+      "semrush": 43,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "theqoo.net",
+    "url": "https://theqoo.net",
+    "rank": {
+      "ahrefs": 95,
+      "similarweb": 17,
+      "semrush": 31,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "sooplive.com",
+    "url": "https://www.sooplive.com",
+    "rank": {
+      "ahrefs": 75,
+      "similarweb": 25,
+      "semrush": 44,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "claude.ai",
+    "url": "https://claude.ai",
+    "rank": {
+      "ahrefs": 58,
+      "similarweb": 41,
+      "semrush": 47,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "tiktok.com",
+    "url": "https://www.tiktok.com",
+    "rank": {
+      "ahrefs": 21,
+      "cloudflare": 70,
+      "semrush": 59,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "weather.go.kr",
+    "url": "https://weather.go.kr",
+    "rank": {
+      "tranco": 31844,
+      "ahrefs": 45,
+      "similarweb": 37,
+      "semrush": 75,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "11st.co.kr",
+    "url": "https://11st.co.kr",
+    "rank": {
+      "tranco": 14548,
+      "cloudflare": 34,
+      "similarweb": 49,
+      "semrush": 87,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "clien.net",
+    "url": "https://www.clien.net",
+    "rank": {
+      "ahrefs": 68,
+      "similarweb": 42,
+      "semrush": 73,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "github.com",
+    "url": "https://github.com",
+    "rank": {
+      "ahrefs": 55,
+      "cloudflare": 63,
+      "semrush": 69,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "namu.wiki",
+    "url": "https://namu.wiki",
+    "rank": {
+      "ahrefs": 1,
+      "similarweb": 5,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "dcinside.com",
+    "url": "https://www.dcinside.com",
+    "rank": {
+      "ahrefs": 8,
+      "similarweb": 4,
+      "crux": 1000
     }
   },
   {
@@ -79,30 +319,21 @@
     }
   },
   {
-    "website": "x.com",
-    "url": "https://x.com",
+    "website": "reddit.com",
+    "url": "https://www.reddit.com",
     "rank": {
-      "ahrefs": 20,
-      "similarweb": 23,
-      "semrush": 4
+      "ahrefs": 16,
+      "semrush": 18,
+      "crux": 1000
     }
   },
   {
-    "website": "daum.net",
-    "url": "https://daum.net",
+    "website": "fmkorea.com",
+    "url": "https://www.fmkorea.com",
     "rank": {
-      "ahrefs": 10,
-      "cloudflare": 35,
-      "similarweb": 7
-    }
-  },
-  {
-    "website": "coupang.com",
-    "url": "https://coupang.com",
-    "rank": {
-      "ahrefs": 18,
-      "cloudflare": 38,
-      "similarweb": 6
+      "ahrefs": 25,
+      "similarweb": 11,
+      "crux": 1000
     }
   },
   {
@@ -115,41 +346,39 @@
     }
   },
   {
-    "website": "aliexpress.com",
-    "url": "https://aliexpress.com",
+    "website": "arca.live",
+    "url": "https://arca.live",
     "rank": {
-      "ahrefs": 37,
-      "similarweb": 18,
-      "semrush": 16
+      "ahrefs": 28,
+      "similarweb": 20,
+      "crux": 1000
     }
   },
   {
-    "website": "nate.com",
-    "url": "https://nate.com",
+    "website": "bing.com",
+    "url": "https://www.bing.com",
     "rank": {
-      "ahrefs": 43,
-      "similarweb": 16,
-      "semrush": 22
+      "cloudflare": 20,
+      "semrush": 39,
+      "crux": 1000
     }
   },
   {
-    "website": "inven.co.kr",
-    "url": "https://inven.co.kr",
+    "website": "newtoki1.org",
+    "url": "https://newtoki1.org",
     "rank": {
-      "tranco": 1449,
-      "ahrefs": 42,
-      "similarweb": 29,
-      "semrush": 13
+      "ahrefs": 19,
+      "semrush": 41,
+      "crux": 1000
     }
   },
   {
-    "website": "gmarket.co.kr",
-    "url": "https://gmarket.co.kr",
+    "website": "temu.com",
+    "url": "https://www.temu.com",
     "rank": {
-      "tranco": 5751,
-      "cloudflare": 32,
-      "similarweb": 30,
-      "semrush": 28
+      "similarweb": 27,
+      "semrush": 34,
+      "crux": 1000
     }
   },
   {
@@ -159,6 +388,16 @@
       "ahrefs": 73,
       "cloudflare": 15,
       "similarweb": 9
+    }
+  },
+  {
+    "website": "ppomppu.co.kr",
+    "url": "https://ppomppu.co.kr",
+    "rank": {
+      "tranco": 1859,
+      "similarweb": 31,
+      "semrush": 35,
+      "crux": 1000
     }
   },
   {
@@ -180,58 +419,31 @@
     }
   },
   {
-    "website": "netflix.com",
-    "url": "https://netflix.com",
+    "website": "tvmon1.com",
+    "url": "https://tvmon1.com",
     "rank": {
-      "ahrefs": 48,
-      "similarweb": 28,
-      "semrush": 37
+      "ahrefs": 57,
+      "semrush": 21,
+      "crux": 1000
     }
   },
   {
-    "website": "google.co.kr",
-    "url": "https://google.co.kr",
+    "website": "op.gg",
+    "url": "https://op.gg",
     "rank": {
-      "tranco": 5276,
-      "cloudflare": 25,
-      "similarweb": 45,
-      "semrush": 45
+      "ahrefs": 13,
+      "semrush": 68,
+      "crux": 1000
     }
   },
   {
-    "website": "apple.com",
-    "url": "https://apple.com",
+    "website": "dhlottery.co.kr",
+    "url": "https://dhlottery.co.kr",
     "rank": {
-      "ahrefs": 14,
-      "cloudflare": 9,
-      "semrush": 97
-    }
-  },
-  {
-    "website": "donga.com",
-    "url": "https://donga.com",
-    "rank": {
-      "ahrefs": 83,
-      "similarweb": 19,
-      "semrush": 20
-    }
-  },
-  {
-    "website": "samsung.com",
-    "url": "https://samsung.com",
-    "rank": {
-      "ahrefs": 62,
-      "similarweb": 22,
-      "semrush": 46
-    }
-  },
-  {
-    "website": "chosun.com",
-    "url": "https://chosun.com",
-    "rank": {
-      "ahrefs": 41,
-      "similarweb": 46,
-      "semrush": 43
+      "tranco": 12242,
+      "similarweb": 40,
+      "semrush": 49,
+      "crux": 1000
     }
   },
   {
@@ -244,93 +456,97 @@
     }
   },
   {
-    "website": "theqoo.net",
-    "url": "https://theqoo.net",
+    "website": "lotteon.com",
+    "url": "https://www.lotteon.com",
     "rank": {
-      "ahrefs": 95,
-      "similarweb": 17,
-      "semrush": 31
+      "similarweb": 33,
+      "semrush": 64,
+      "crux": 1000
     }
   },
   {
-    "website": "sooplive.com",
-    "url": "https://sooplive.com",
+    "website": "oliveyoung.co.kr",
+    "url": "https://oliveyoung.co.kr",
     "rank": {
-      "ahrefs": 75,
-      "similarweb": 25,
-      "semrush": 44
+      "tranco": 28122,
+      "similarweb": 39,
+      "semrush": 72,
+      "crux": 1000
     }
   },
   {
-    "website": "claude.ai",
-    "url": "https://claude.ai",
+    "website": "ruliweb.com",
+    "url": "https://www.ruliweb.com",
     "rank": {
-      "ahrefs": 58,
-      "similarweb": 41,
-      "semrush": 47
+      "ahrefs": 97,
+      "similarweb": 26,
+      "crux": 1000
     }
   },
   {
-    "website": "tiktok.com",
-    "url": "https://tiktok.com",
+    "website": "discord.com",
+    "url": "https://discord.com",
     "rank": {
-      "ahrefs": 21,
-      "cloudflare": 70,
-      "semrush": 59
+      "ahrefs": 49,
+      "semrush": 83,
+      "crux": 1000
     }
   },
   {
-    "website": "weather.go.kr",
-    "url": "https://weather.go.kr",
+    "website": "anilife.app",
+    "url": "https://anilife.app",
     "rank": {
-      "tranco": 31844,
-      "ahrefs": 45,
-      "similarweb": 37,
-      "semrush": 75
+      "ahrefs": 67,
+      "semrush": 66,
+      "crux": 1000
     }
   },
   {
-    "website": "11st.co.kr",
-    "url": "https://11st.co.kr",
+    "website": "weather.com",
+    "url": "https://weather.com",
     "rank": {
-      "tranco": 14548,
-      "cloudflare": 34,
-      "similarweb": 49,
-      "semrush": 87
+      "semrush": 7,
+      "crux": 1000
     }
   },
   {
-    "website": "clien.net",
-    "url": "https://clien.net",
+    "website": "news.naver.com",
+    "url": "https://news.naver.com",
     "rank": {
-      "ahrefs": 68,
-      "similarweb": 42,
-      "semrush": 73
+      "similarweb": 8,
+      "crux": 1000
     }
   },
   {
-    "website": "github.com",
-    "url": "https://github.com",
+    "website": "missav123.com",
+    "url": "https://missav123.com",
     "rank": {
-      "ahrefs": 55,
-      "cloudflare": 63,
-      "semrush": 69
+      "semrush": 9,
+      "crux": 1000
     }
   },
   {
-    "website": "namu.wiki",
-    "url": "https://namu.wiki",
+    "website": "canva.com",
+    "url": "https://www.canva.com",
     "rank": {
-      "ahrefs": 1,
-      "similarweb": 5
+      "ahrefs": 11,
+      "crux": 1000
     }
   },
   {
-    "website": "dcinside.com",
-    "url": "https://dcinside.com",
+    "website": "blacktoonurl.org",
+    "url": "https://www.blacktoonurl.org",
     "rank": {
-      "ahrefs": 8,
-      "similarweb": 4
+      "ahrefs": 12,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "gemini.google.com",
+    "url": "https://gemini.google.com",
+    "rank": {
+      "similarweb": 13,
+      "crux": 1000
     }
   },
   {
@@ -342,51 +558,108 @@
     }
   },
   {
-    "website": "reddit.com",
-    "url": "https://reddit.com",
+    "website": "yasyadong02.tv",
+    "url": "https://yasyadong02.tv",
     "rank": {
-      "ahrefs": 16,
-      "semrush": 18
+      "semrush": 14,
+      "crux": 1000
     }
   },
   {
-    "website": "fmkorea.com",
-    "url": "https://fmkorea.com",
+    "website": "map.naver.com",
+    "url": "https://map.naver.com",
     "rank": {
-      "ahrefs": 25,
-      "similarweb": 11
+      "similarweb": 15,
+      "crux": 1000
     }
   },
   {
-    "website": "arca.live",
-    "url": "https://arca.live",
+    "website": "av19t.com",
+    "url": "https://av19t.com",
     "rank": {
-      "ahrefs": 28,
-      "similarweb": 20
+      "semrush": 17,
+      "crux": 1000
     }
   },
   {
-    "website": "bing.com",
-    "url": "https://bing.com",
+    "website": "kissjav.li",
+    "url": "https://kissjav.li",
     "rank": {
-      "cloudflare": 20,
-      "semrush": 39
+      "semrush": 19,
+      "crux": 1000
     }
   },
   {
-    "website": "newtoki1.org",
-    "url": "https://newtoki1.org",
+    "website": "news.nate.com",
+    "url": "https://news.nate.com",
     "rank": {
-      "ahrefs": 19,
-      "semrush": 41
+      "similarweb": 24,
+      "crux": 1000
     }
   },
   {
-    "website": "temu.com",
-    "url": "https://temu.com",
+    "website": "pornhub.com",
+    "url": "https://www.pornhub.com",
     "rank": {
-      "similarweb": 27,
-      "semrush": 34
+      "semrush": 25,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "dogdrip.net",
+    "url": "https://www.dogdrip.net",
+    "rank": {
+      "semrush": 26,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "kone.gg",
+    "url": "https://kone.gg",
+    "rank": {
+      "semrush": 27,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "roblox.com",
+    "url": "https://www.roblox.com",
+    "rank": {
+      "ahrefs": 27,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "blacktoon418.com",
+    "url": "https://blacktoon418.com",
+    "rank": {
+      "semrush": 29,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "adobe.com",
+    "url": "https://www.adobe.com",
+    "rank": {
+      "ahrefs": 30,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "lolchess.gg",
+    "url": "https://lolchess.gg",
+    "rank": {
+      "ahrefs": 31,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "jobkorea.co.kr",
+    "url": "https://jobkorea.co.kr",
+    "rank": {
+      "tranco": 23494,
+      "ahrefs": 32,
+      "crux": 1000
     }
   },
   {
@@ -398,20 +671,19 @@
     }
   },
   {
-    "website": "ppomppu.co.kr",
-    "url": "https://ppomppu.co.kr",
+    "website": "twidouga.net",
+    "url": "https://www.twidouga.net",
     "rank": {
-      "tranco": 1859,
-      "similarweb": 31,
-      "semrush": 35
+      "semrush": 33,
+      "crux": 1000
     }
   },
   {
-    "website": "tvmon1.com",
-    "url": "https://tvmon1.com",
+    "website": "amazon.com",
+    "url": "https://www.amazon.com",
     "rank": {
-      "ahrefs": 57,
-      "semrush": 21
+      "ahrefs": 36,
+      "crux": 1000
     }
   },
   {
@@ -431,11 +703,27 @@
     }
   },
   {
-    "website": "op.gg",
-    "url": "https://op.gg",
+    "website": "tving.com",
+    "url": "https://www.tving.com",
     "rank": {
-      "ahrefs": 13,
-      "semrush": 68
+      "ahrefs": 40,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "hulk24.com",
+    "url": "https://www.hulk24.com",
+    "rank": {
+      "ahrefs": 44,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "weather.naver.com",
+    "url": "https://weather.naver.com",
+    "rank": {
+      "similarweb": 44,
+      "crux": 1000
     }
   },
   {
@@ -447,20 +735,61 @@
     }
   },
   {
-    "website": "dhlottery.co.kr",
-    "url": "https://dhlottery.co.kr",
+    "website": "saramin.co.kr",
+    "url": "https://saramin.co.kr",
     "rank": {
-      "tranco": 12242,
-      "similarweb": 40,
-      "semrush": 49
+      "tranco": 18869,
+      "ahrefs": 47,
+      "crux": 1000
     }
   },
   {
-    "website": "lotteon.com",
-    "url": "https://lotteon.com",
+    "website": "map.kakao.com",
+    "url": "https://map.kakao.com",
     "rank": {
-      "similarweb": 33,
-      "semrush": 64
+      "similarweb": 48,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "auction.co.kr",
+    "url": "https://auction.co.kr",
+    "rank": {
+      "tranco": 16024,
+      "cloudflare": 50,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "k-hentai.org",
+    "url": "https://k-hentai.org",
+    "rank": {
+      "semrush": 50,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "tossinvest.com",
+    "url": "https://www.tossinvest.com",
+    "rank": {
+      "ahrefs": 51,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "avdbs.com",
+    "url": "https://www.avdbs.com",
+    "rank": {
+      "semrush": 52,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "yandex.com",
+    "url": "https://yandex.com",
+    "rank": {
+      "semrush": 53,
+      "crux": 1000
     }
   },
   {
@@ -472,15 +801,6 @@
     }
   },
   {
-    "website": "oliveyoung.co.kr",
-    "url": "https://oliveyoung.co.kr",
-    "rank": {
-      "tranco": 28122,
-      "similarweb": 39,
-      "semrush": 72
-    }
-  },
-  {
     "website": "toss.im",
     "url": "https://toss.im",
     "rank": {
@@ -489,11 +809,36 @@
     }
   },
   {
-    "website": "ruliweb.com",
-    "url": "https://ruliweb.com",
+    "website": "njavtv.com",
+    "url": "https://njavtv.com",
     "rank": {
-      "ahrefs": 97,
-      "similarweb": 26
+      "semrush": 57,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ohou.se",
+    "url": "https://ohou.se",
+    "rank": {
+      "semrush": 58,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "brunch.co.kr",
+    "url": "https://brunch.co.kr",
+    "rank": {
+      "tranco": 30003,
+      "ahrefs": 60,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "kgirls.net",
+    "url": "https://www.kgirls.net",
+    "rank": {
+      "semrush": 60,
+      "crux": 1000
     }
   },
   {
@@ -505,19 +850,84 @@
     }
   },
   {
-    "website": "discord.com",
-    "url": "https://discord.com",
+    "website": "xvideos.com",
+    "url": "https://www.xvideos.com",
     "rank": {
-      "ahrefs": 49,
-      "semrush": 83
+      "semrush": 62,
+      "crux": 1000
     }
   },
   {
-    "website": "anilife.app",
-    "url": "https://anilife.app",
+    "website": "ilovepdf.com",
+    "url": "https://www.ilovepdf.com",
     "rank": {
-      "ahrefs": 67,
-      "semrush": 66
+      "ahrefs": 64,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "zeta-ai.io",
+    "url": "https://zeta-ai.io",
+    "rank": {
+      "semrush": 65,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "accuweather.com",
+    "url": "https://www.accuweather.com",
+    "rank": {
+      "ahrefs": 70,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "pawchive.pw",
+    "url": "https://pawchive.pw",
+    "rank": {
+      "semrush": 70,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "yna.co.kr",
+    "url": "https://yna.co.kr",
+    "rank": {
+      "tranco": 7417,
+      "ahrefs": 72,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "hyundai.com",
+    "url": "https://www.hyundai.com",
+    "rank": {
+      "ahrefs": 74,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "poki.com",
+    "url": "https://poki.com",
+    "rank": {
+      "ahrefs": 76,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "blacktoon420.com",
+    "url": "https://blacktoon420.com",
+    "rank": {
+      "semrush": 77,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "postype.com",
+    "url": "https://www.postype.com",
+    "rank": {
+      "ahrefs": 77,
+      "crux": 1000
     }
   },
   {
@@ -526,6 +936,141 @@
     "rank": {
       "ahrefs": 82,
       "semrush": 74
+    }
+  },
+  {
+    "website": "lge.co.kr",
+    "url": "https://lge.co.kr",
+    "rank": {
+      "tranco": 54405,
+      "semrush": 79,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "flashscore.co.kr",
+    "url": "https://flashscore.co.kr",
+    "rank": {
+      "tranco": 95300,
+      "ahrefs": 80,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "bobaedream.co.kr",
+    "url": "https://bobaedream.co.kr",
+    "rank": {
+      "tranco": 9908,
+      "semrush": 81,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "tvwiki47.net",
+    "url": "https://tvwiki47.net",
+    "rank": {
+      "semrush": 82,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "tdgall.com",
+    "url": "https://tdgall.com",
+    "rank": {
+      "semrush": 84,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "agoda.com",
+    "url": "https://www.agoda.com",
+    "rank": {
+      "ahrefs": 85,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "fomos.kr",
+    "url": "https://fomos.kr",
+    "rank": {
+      "tranco": 63865,
+      "semrush": 86,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "joongang.co.kr",
+    "url": "https://joongang.co.kr",
+    "rank": {
+      "tranco": 9191,
+      "ahrefs": 87,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "linkkf.tv",
+    "url": "https://linkkf.tv",
+    "rank": {
+      "semrush": 88,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "dblife01.com",
+    "url": "https://dblife01.com",
+    "rank": {
+      "semrush": 90,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "gov.kr",
+    "url": "https://www.gov.kr",
+    "rank": {
+      "tranco": 52764,
+      "ahrefs": 91,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "hankyung.com",
+    "url": "https://www.hankyung.com",
+    "rank": {
+      "semrush": 95,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ydparty06.tv",
+    "url": "https://ydparty06.tv",
+    "rank": {
+      "semrush": 96,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "skyscanner.co.kr",
+    "url": "https://skyscanner.co.kr",
+    "rank": {
+      "tranco": 79776,
+      "ahrefs": 98,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "sbxh9.com",
+    "url": "https://sbxh9.com",
+    "rank": {
+      "semrush": 98,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "toki31.com",
+    "url": "https://toki31.com",
+    "rank": {
+      "semrush": 100,
+      "crux": 1000
     }
   },
   {
@@ -550,13 +1095,6 @@
     }
   },
   {
-    "website": "weather.com",
-    "url": "https://weather.com",
-    "rank": {
-      "semrush": 7
-    }
-  },
-  {
     "website": "doubleclick.net",
     "url": "https://doubleclick.net",
     "rank": {
@@ -571,45 +1109,10 @@
     }
   },
   {
-    "website": "news.naver.com",
-    "url": "https://news.naver.com",
-    "rank": {
-      "similarweb": 8
-    }
-  },
-  {
-    "website": "missav123.com",
-    "url": "https://missav123.com",
-    "rank": {
-      "semrush": 9
-    }
-  },
-  {
-    "website": "canva.com",
-    "url": "https://canva.com",
-    "rank": {
-      "ahrefs": 11
-    }
-  },
-  {
-    "website": "blacktoonurl.org",
-    "url": "https://blacktoonurl.org",
-    "rank": {
-      "ahrefs": 12
-    }
-  },
-  {
     "website": "googlevideo.com",
     "url": "https://googlevideo.com",
     "rank": {
       "cloudflare": 12
-    }
-  },
-  {
-    "website": "gemini.google.com",
-    "url": "https://gemini.google.com",
-    "rank": {
-      "similarweb": 13
     }
   },
   {
@@ -620,31 +1123,10 @@
     }
   },
   {
-    "website": "yasyadong02.tv",
-    "url": "https://yasyadong02.tv",
-    "rank": {
-      "semrush": 14
-    }
-  },
-  {
-    "website": "map.naver.com",
-    "url": "https://map.naver.com",
-    "rank": {
-      "similarweb": 15
-    }
-  },
-  {
     "website": "amazonaws.com",
     "url": "https://amazonaws.com",
     "rank": {
       "cloudflare": 16
-    }
-  },
-  {
-    "website": "av19t.com",
-    "url": "https://av19t.com",
-    "rank": {
-      "semrush": 17
     }
   },
   {
@@ -659,13 +1141,6 @@
     "url": "https://googletagmanager.com",
     "rank": {
       "cloudflare": 19
-    }
-  },
-  {
-    "website": "kissjav.li",
-    "url": "https://kissjav.li",
-    "rank": {
-      "semrush": 19
     }
   },
   {
@@ -704,31 +1179,10 @@
     }
   },
   {
-    "website": "news.nate.com",
-    "url": "https://news.nate.com",
-    "rank": {
-      "similarweb": 24
-    }
-  },
-  {
-    "website": "pornhub.com",
-    "url": "https://pornhub.com",
-    "rank": {
-      "semrush": 25
-    }
-  },
-  {
     "website": "apple-dns.net",
     "url": "https://apple-dns.net",
     "rank": {
       "cloudflare": 26
-    }
-  },
-  {
-    "website": "dogdrip.net",
-    "url": "https://dogdrip.net",
-    "rank": {
-      "semrush": 26
     }
   },
   {
@@ -739,31 +1193,10 @@
     }
   },
   {
-    "website": "kone.gg",
-    "url": "https://kone.gg",
-    "rank": {
-      "semrush": 27
-    }
-  },
-  {
-    "website": "roblox.com",
-    "url": "https://roblox.com",
-    "rank": {
-      "ahrefs": 27
-    }
-  },
-  {
     "website": "cloudflare-dns.com",
     "url": "https://cloudflare-dns.com",
     "rank": {
       "cloudflare": 28
-    }
-  },
-  {
-    "website": "blacktoon418.com",
-    "url": "https://blacktoon418.com",
-    "rank": {
-      "semrush": 29
     }
   },
   {
@@ -778,13 +1211,6 @@
     "url": "https://tvwiki1.org",
     "rank": {
       "ahrefs": 29
-    }
-  },
-  {
-    "website": "adobe.com",
-    "url": "https://adobe.com",
-    "rank": {
-      "ahrefs": 30
     }
   },
   {
@@ -809,32 +1235,10 @@
     }
   },
   {
-    "website": "lolchess.gg",
-    "url": "https://lolchess.gg",
-    "rank": {
-      "ahrefs": 31
-    }
-  },
-  {
-    "website": "jobkorea.co.kr",
-    "url": "https://jobkorea.co.kr",
-    "rank": {
-      "tranco": 23494,
-      "ahrefs": 32
-    }
-  },
-  {
     "website": "icloud.com",
     "url": "https://icloud.com",
     "rank": {
       "cloudflare": 33
-    }
-  },
-  {
-    "website": "twidouga.net",
-    "url": "https://twidouga.net",
-    "rank": {
-      "semrush": 33
     }
   },
   {
@@ -866,13 +1270,6 @@
     }
   },
   {
-    "website": "amazon.com",
-    "url": "https://amazon.com",
-    "rank": {
-      "ahrefs": 36
-    }
-  },
-  {
     "website": "gvt1.com",
     "url": "https://gvt1.com",
     "rank": {
@@ -901,13 +1298,6 @@
     }
   },
   {
-    "website": "akamai.net",
-    "url": "https://akamai.net",
-    "rank": {
-      "cloudflare": 39
-    }
-  },
-  {
     "website": "alphasquare.co.kr",
     "url": "https://alphasquare.co.kr",
     "rank": {
@@ -916,10 +1306,10 @@
     }
   },
   {
-    "website": "tving.com",
-    "url": "https://tving.com",
+    "website": "akamai.net",
+    "url": "https://akamai.net",
     "rank": {
-      "ahrefs": 40
+      "cloudflare": 39
     }
   },
   {
@@ -958,13 +1348,6 @@
     }
   },
   {
-    "website": "hulk24.com",
-    "url": "https://hulk24.com",
-    "rank": {
-      "ahrefs": 44
-    }
-  },
-  {
     "website": "office.com",
     "url": "https://office.com",
     "rank": {
@@ -972,24 +1355,10 @@
     }
   },
   {
-    "website": "weather.naver.com",
-    "url": "https://weather.naver.com",
-    "rank": {
-      "similarweb": 44
-    }
-  },
-  {
     "website": "app-measurement.com",
     "url": "https://app-measurement.com",
     "rank": {
       "cloudflare": 45
-    }
-  },
-  {
-    "website": "011st.com",
-    "url": "https://011st.com",
-    "rank": {
-      "cloudflare": 46
     }
   },
   {
@@ -1001,11 +1370,10 @@
     }
   },
   {
-    "website": "saramin.co.kr",
-    "url": "https://saramin.co.kr",
+    "website": "011st.com",
+    "url": "https://011st.com",
     "rank": {
-      "tranco": 18869,
-      "ahrefs": 47
+      "cloudflare": 46
     }
   },
   {
@@ -1030,13 +1398,6 @@
     }
   },
   {
-    "website": "map.kakao.com",
-    "url": "https://map.kakao.com",
-    "rank": {
-      "similarweb": 48
-    }
-  },
-  {
     "website": "akamaiedge.net",
     "url": "https://akamaiedge.net",
     "rank": {
@@ -1044,25 +1405,10 @@
     }
   },
   {
-    "website": "auction.co.kr",
-    "url": "https://auction.co.kr",
-    "rank": {
-      "tranco": 16024,
-      "cloudflare": 50
-    }
-  },
-  {
     "website": "cafe24.com",
     "url": "https://cafe24.com",
     "rank": {
       "similarweb": 50
-    }
-  },
-  {
-    "website": "k-hentai.org",
-    "url": "https://k-hentai.org",
-    "rank": {
-      "semrush": 50
     }
   },
   {
@@ -1087,20 +1433,6 @@
     }
   },
   {
-    "website": "tossinvest.com",
-    "url": "https://tossinvest.com",
-    "rank": {
-      "ahrefs": 51
-    }
-  },
-  {
-    "website": "avdbs.com",
-    "url": "https://avdbs.com",
-    "rank": {
-      "semrush": 52
-    }
-  },
-  {
     "website": "nara-speller.co.kr",
     "url": "https://nara-speller.co.kr",
     "rank": {
@@ -1120,13 +1452,6 @@
     "url": "https://wise.com",
     "rank": {
       "ahrefs": 53
-    }
-  },
-  {
-    "website": "yandex.com",
-    "url": "https://yandex.com",
-    "rank": {
-      "semrush": 53
     }
   },
   {
@@ -1186,20 +1511,6 @@
     }
   },
   {
-    "website": "njavtv.com",
-    "url": "https://njavtv.com",
-    "rank": {
-      "semrush": 57
-    }
-  },
-  {
-    "website": "ohou.se",
-    "url": "https://ohou.se",
-    "rank": {
-      "semrush": 58
-    }
-  },
-  {
     "website": "statsigapi.net",
     "url": "https://statsigapi.net",
     "rank": {
@@ -1218,21 +1529,6 @@
     "url": "https://perplexity.ai",
     "rank": {
       "ahrefs": 59
-    }
-  },
-  {
-    "website": "brunch.co.kr",
-    "url": "https://brunch.co.kr",
-    "rank": {
-      "tranco": 30003,
-      "ahrefs": 60
-    }
-  },
-  {
-    "website": "kgirls.net",
-    "url": "https://kgirls.net",
-    "rank": {
-      "semrush": 60
     }
   },
   {
@@ -1271,13 +1567,6 @@
     }
   },
   {
-    "website": "xvideos.com",
-    "url": "https://xvideos.com",
-    "rank": {
-      "semrush": 62
-    }
-  },
-  {
     "website": "tckopke.com",
     "url": "https://tckopke.com",
     "rank": {
@@ -1292,13 +1581,6 @@
     }
   },
   {
-    "website": "ilovepdf.com",
-    "url": "https://ilovepdf.com",
-    "rank": {
-      "ahrefs": 64
-    }
-  },
-  {
     "website": "a14c.com",
     "url": "https://a14c.com",
     "rank": {
@@ -1310,13 +1592,6 @@
     "url": "https://ahnlab.com",
     "rank": {
       "cloudflare": 65
-    }
-  },
-  {
-    "website": "zeta-ai.io",
-    "url": "https://zeta-ai.io",
-    "rank": {
-      "semrush": 65
     }
   },
   {
@@ -1355,17 +1630,11 @@
     }
   },
   {
-    "website": "accuweather.com",
-    "url": "https://accuweather.com",
+    "website": "yogiyo.co.kr",
+    "url": "https://yogiyo.co.kr",
     "rank": {
-      "ahrefs": 70
-    }
-  },
-  {
-    "website": "pawchive.pw",
-    "url": "https://pawchive.pw",
-    "rank": {
-      "semrush": 70
+      "tranco": 78720,
+      "semrush": 71
     }
   },
   {
@@ -1384,26 +1653,10 @@
     }
   },
   {
-    "website": "yogiyo.co.kr",
-    "url": "https://yogiyo.co.kr",
-    "rank": {
-      "tranco": 78720,
-      "semrush": 71
-    }
-  },
-  {
     "website": "daumcdn.net",
     "url": "https://daumcdn.net",
     "rank": {
       "cloudflare": 72
-    }
-  },
-  {
-    "website": "yna.co.kr",
-    "url": "https://yna.co.kr",
-    "rank": {
-      "tranco": 7417,
-      "ahrefs": 72
     }
   },
   {
@@ -1421,13 +1674,6 @@
     }
   },
   {
-    "website": "hyundai.com",
-    "url": "https://hyundai.com",
-    "rank": {
-      "ahrefs": 74
-    }
-  },
-  {
     "website": "ggpht.com",
     "url": "https://ggpht.com",
     "rank": {
@@ -1442,31 +1688,10 @@
     }
   },
   {
-    "website": "poki.com",
-    "url": "https://poki.com",
-    "rank": {
-      "ahrefs": 76
-    }
-  },
-  {
-    "website": "blacktoon420.com",
-    "url": "https://blacktoon420.com",
-    "rank": {
-      "semrush": 77
-    }
-  },
-  {
     "website": "criteo.net",
     "url": "https://criteo.net",
     "rank": {
       "cloudflare": 77
-    }
-  },
-  {
-    "website": "postype.com",
-    "url": "https://postype.com",
-    "rank": {
-      "ahrefs": 77
     }
   },
   {
@@ -1505,34 +1730,10 @@
     }
   },
   {
-    "website": "lge.co.kr",
-    "url": "https://lge.co.kr",
-    "rank": {
-      "tranco": 54405,
-      "semrush": 79
-    }
-  },
-  {
-    "website": "flashscore.co.kr",
-    "url": "https://flashscore.co.kr",
-    "rank": {
-      "tranco": 95300,
-      "ahrefs": 80
-    }
-  },
-  {
     "website": "mediacategory.com",
     "url": "https://mediacategory.com",
     "rank": {
       "semrush": 80
-    }
-  },
-  {
-    "website": "bobaedream.co.kr",
-    "url": "https://bobaedream.co.kr",
-    "rank": {
-      "tranco": 9908,
-      "semrush": 81
     }
   },
   {
@@ -1557,13 +1758,6 @@
     }
   },
   {
-    "website": "tvwiki47.net",
-    "url": "https://tvwiki47.net",
-    "rank": {
-      "semrush": 82
-    }
-  },
-  {
     "website": "alicdn.com",
     "url": "https://alicdn.com",
     "rank": {
@@ -1585,32 +1779,10 @@
     }
   },
   {
-    "website": "tdgall.com",
-    "url": "https://tdgall.com",
-    "rank": {
-      "semrush": 84
-    }
-  },
-  {
-    "website": "agoda.com",
-    "url": "https://agoda.com",
-    "rank": {
-      "ahrefs": 85
-    }
-  },
-  {
     "website": "lguplus.com",
     "url": "https://lguplus.com",
     "rank": {
       "semrush": 85
-    }
-  },
-  {
-    "website": "fomos.kr",
-    "url": "https://fomos.kr",
-    "rank": {
-      "tranco": 63865,
-      "semrush": 86
     }
   },
   {
@@ -1628,14 +1800,6 @@
     }
   },
   {
-    "website": "joongang.co.kr",
-    "url": "https://joongang.co.kr",
-    "rank": {
-      "tranco": 9191,
-      "ahrefs": 87
-    }
-  },
-  {
     "website": "windows.com",
     "url": "https://windows.com",
     "rank": {
@@ -1647,13 +1811,6 @@
     "url": "https://lencr.org",
     "rank": {
       "cloudflare": 88
-    }
-  },
-  {
-    "website": "linkkf.tv",
-    "url": "https://linkkf.tv",
-    "rank": {
-      "semrush": 88
     }
   },
   {
@@ -1678,13 +1835,6 @@
     }
   },
   {
-    "website": "dblife01.com",
-    "url": "https://dblife01.com",
-    "rank": {
-      "semrush": 90
-    }
-  },
-  {
     "website": "nheos.com",
     "url": "https://nheos.com",
     "rank": {
@@ -1703,14 +1853,6 @@
     "url": "https://azure.com",
     "rank": {
       "cloudflare": 91
-    }
-  },
-  {
-    "website": "gov.kr",
-    "url": "https://www.gov.kr",
-    "rank": {
-      "tranco": 52764,
-      "ahrefs": 91
     }
   },
   {
@@ -1763,13 +1905,6 @@
     }
   },
   {
-    "website": "hankyung.com",
-    "url": "https://hankyung.com",
-    "rank": {
-      "semrush": 95
-    }
-  },
-  {
     "website": "taboola.com",
     "url": "https://taboola.com",
     "rank": {
@@ -1791,13 +1926,6 @@
     }
   },
   {
-    "website": "ydparty06.tv",
-    "url": "https://ydparty06.tv",
-    "rank": {
-      "semrush": 96
-    }
-  },
-  {
     "website": "skplanet.com",
     "url": "https://skplanet.com",
     "rank": {
@@ -1812,18 +1940,11 @@
     }
   },
   {
-    "website": "sbxh9.com",
-    "url": "https://sbxh9.com",
+    "website": "bugs.co.kr",
+    "url": "https://bugs.co.kr",
     "rank": {
-      "semrush": 98
-    }
-  },
-  {
-    "website": "skyscanner.co.kr",
-    "url": "https://skyscanner.co.kr",
-    "rank": {
-      "tranco": 79776,
-      "ahrefs": 98
+      "tranco": 48781,
+      "ahrefs": 99
     }
   },
   {
@@ -1831,14 +1952,6 @@
     "url": "https://blacktoon417.com",
     "rank": {
       "semrush": 99
-    }
-  },
-  {
-    "website": "bugs.co.kr",
-    "url": "https://bugs.co.kr",
-    "rank": {
-      "tranco": 48781,
-      "ahrefs": 99
     }
   },
   {
@@ -1856,13 +1969,6 @@
     }
   },
   {
-    "website": "toki31.com",
-    "url": "https://toki31.com",
-    "rank": {
-      "semrush": 100
-    }
-  },
-  {
     "website": "ubuntu.com",
     "url": "https://ubuntu.com",
     "rank": {
@@ -1870,24 +1976,6412 @@
     }
   },
   {
-    "website": "or.kr",
-    "url": "https://or.kr",
-    "rank": {
-      "tranco": 1227
-    }
-  },
-  {
     "website": "m.inven.co.kr",
     "url": "https://m.inven.co.kr",
     "rank": {
-      "tranco": 2419
+      "tranco": 2419,
+      "crux": 1000
     }
   },
   {
     "website": "m.ppomppu.co.kr",
     "url": "https://m.ppomppu.co.kr",
     "rank": {
-      "tranco": 2659
+      "tranco": 2659,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "hani.co.kr",
+    "url": "https://hani.co.kr",
+    "rank": {
+      "tranco": 11356,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ondisk.co.kr",
+    "url": "https://ondisk.co.kr",
+    "rank": {
+      "tranco": 12048,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "mk.co.kr",
+    "url": "https://mk.co.kr",
+    "rank": {
+      "tranco": 12324,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ardentnews.co.kr",
+    "url": "https://ardentnews.co.kr",
+    "rank": {
+      "tranco": 13173,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "work24.go.kr",
+    "url": "https://work24.go.kr",
+    "rank": {
+      "tranco": 13660,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "link.gmarket.co.kr",
+    "url": "https://link.gmarket.co.kr",
+    "rank": {
+      "tranco": 14458,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.bobaedream.co.kr",
+    "url": "https://m.bobaedream.co.kr",
+    "rank": {
+      "tranco": 14927,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "aladin.co.kr",
+    "url": "https://aladin.co.kr",
+    "rank": {
+      "tranco": 19258,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "khan.co.kr",
+    "url": "https://khan.co.kr",
+    "rank": {
+      "tranco": 19493,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "news1.kr",
+    "url": "https://news1.kr",
+    "rank": {
+      "tranco": 24821,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "asiae.co.kr",
+    "url": "https://asiae.co.kr",
+    "rank": {
+      "tranco": 25590,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "mania.kr",
+    "url": "https://mania.kr",
+    "rank": {
+      "tranco": 28186,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "zigzag.kr",
+    "url": "https://zigzag.kr",
+    "rank": {
+      "tranco": 28391,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "mt.co.kr",
+    "url": "https://mt.co.kr",
+    "rank": {
+      "tranco": 28875,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "livescore.co.kr",
+    "url": "https://livescore.co.kr",
+    "rank": {
+      "tranco": 29082,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "soccerline.kr",
+    "url": "https://soccerline.kr",
+    "rank": {
+      "tranco": 30539,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "betman.co.kr",
+    "url": "https://betman.co.kr",
+    "rank": {
+      "tranco": 31428,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "new.ondisk.co.kr",
+    "url": "https://new.ondisk.co.kr",
+    "rank": {
+      "tranco": 34067,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "qr.dhlottery.co.kr",
+    "url": "https://qr.dhlottery.co.kr",
+    "rank": {
+      "tranco": 34110,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "hometax.go.kr",
+    "url": "https://hometax.go.kr",
+    "rank": {
+      "tranco": 41956,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "zdnet.co.kr",
+    "url": "https://zdnet.co.kr",
+    "rank": {
+      "tranco": 44642,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "megafile.co.kr",
+    "url": "https://megafile.co.kr",
+    "rank": {
+      "tranco": 48101,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "itssa.co.kr",
+    "url": "https://itssa.co.kr",
+    "rank": {
+      "tranco": 48761,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.oliveyoung.co.kr",
+    "url": "https://m.oliveyoung.co.kr",
+    "rank": {
+      "tranco": 55880,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "29cm.co.kr",
+    "url": "https://29cm.co.kr",
+    "rank": {
+      "tranco": 59872,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "kream.co.kr",
+    "url": "https://kream.co.kr",
+    "rank": {
+      "tranco": 61409,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "orbi.kr",
+    "url": "https://orbi.kr",
+    "rank": {
+      "tranco": 67089,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "filmmakers.co.kr",
+    "url": "https://filmmakers.co.kr",
+    "rank": {
+      "tranco": 67225,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "todayhumor.co.kr",
+    "url": "https://todayhumor.co.kr",
+    "rank": {
+      "tranco": 71688,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ticketlink.co.kr",
+    "url": "https://ticketlink.co.kr",
+    "rank": {
+      "tranco": 72260,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "dart.fss.or.kr",
+    "url": "https://dart.fss.or.kr",
+    "rank": {
+      "tranco": 73315,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "etoland.co.kr",
+    "url": "https://etoland.co.kr",
+    "rank": {
+      "tranco": 73548,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "alba.co.kr",
+    "url": "https://alba.co.kr",
+    "rank": {
+      "tranco": 73808,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "cgv.co.kr",
+    "url": "https://cgv.co.kr",
+    "rank": {
+      "tranco": 76772,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "newdaily.co.kr",
+    "url": "https://newdaily.co.kr",
+    "rank": {
+      "tranco": 77225,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "eomisae.co.kr",
+    "url": "https://eomisae.co.kr",
+    "rank": {
+      "tranco": 79499,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "harpersbazaar.co.kr",
+    "url": "https://harpersbazaar.co.kr",
+    "rank": {
+      "tranco": 82434,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "vogue.co.kr",
+    "url": "https://vogue.co.kr",
+    "rank": {
+      "tranco": 83696,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "boardlife.co.kr",
+    "url": "https://boardlife.co.kr",
+    "rank": {
+      "tranco": 88424,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "jjtv.kr",
+    "url": "https://jjtv.kr",
+    "rank": {
+      "tranco": 90130,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "everytime.kr",
+    "url": "https://everytime.kr",
+    "rank": {
+      "tranco": 90909,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "kdisk.co.kr",
+    "url": "https://kdisk.co.kr",
+    "rank": {
+      "tranco": 91322,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "plus.gov.kr",
+    "url": "https://plus.gov.kr",
+    "rank": {
+      "tranco": 92831,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "bntnews.co.kr",
+    "url": "https://bntnews.co.kr",
+    "rank": {
+      "tranco": 94911,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "compuzone.co.kr",
+    "url": "https://compuzone.co.kr",
+    "rank": {
+      "tranco": 94934,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "lottecinema.co.kr",
+    "url": "https://lottecinema.co.kr",
+    "rank": {
+      "tranco": 95780,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "elle.co.kr",
+    "url": "https://elle.co.kr",
+    "rank": {
+      "tranco": 96360,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "hipass.co.kr",
+    "url": "https://hipass.co.kr",
+    "rank": {
+      "tranco": 97915,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "gqkorea.co.kr",
+    "url": "https://gqkorea.co.kr",
+    "rank": {
+      "tranco": 99674,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ebsi.co.kr",
+    "url": "https://ebsi.co.kr",
+    "rank": {
+      "tranco": 100348,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "nhis.or.kr",
+    "url": "https://nhis.or.kr",
+    "rank": {
+      "tranco": 102602,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "muko.kr",
+    "url": "https://muko.kr",
+    "rank": {
+      "tranco": 103759,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "law.go.kr",
+    "url": "https://law.go.kr",
+    "rank": {
+      "tranco": 105007,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "music.bugs.co.kr",
+    "url": "https://music.bugs.co.kr",
+    "rank": {
+      "tranco": 105043,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "smartfile.co.kr",
+    "url": "https://smartfile.co.kr",
+    "rank": {
+      "tranco": 105493,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "esquirekorea.co.kr",
+    "url": "https://esquirekorea.co.kr",
+    "rank": {
+      "tranco": 105954,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "mydaily.co.kr",
+    "url": "https://mydaily.co.kr",
+    "rank": {
+      "tranco": 106704,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "mule.co.kr",
+    "url": "https://mule.co.kr",
+    "rank": {
+      "tranco": 106922,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "gseek.kr",
+    "url": "https://gseek.kr",
+    "rank": {
+      "tranco": 107099,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "piku.co.kr",
+    "url": "https://piku.co.kr",
+    "rank": {
+      "tranco": 108963,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "auction1.co.kr",
+    "url": "https://auction1.co.kr",
+    "rank": {
+      "tranco": 109276,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "adiga.kr",
+    "url": "https://adiga.kr",
+    "rank": {
+      "tranco": 109411,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "bydauto.kr",
+    "url": "https://bydauto.kr",
+    "rank": {
+      "tranco": 111190,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "red52.kr",
+    "url": "https://red52.kr",
+    "rank": {
+      "tranco": 111500,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "bnkrmall.co.kr",
+    "url": "https://bnkrmall.co.kr",
+    "rank": {
+      "tranco": 111910,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "gersang.co.kr",
+    "url": "https://gersang.co.kr",
+    "rank": {
+      "tranco": 112268,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "i-scream.co.kr",
+    "url": "https://i-scream.co.kr",
+    "rank": {
+      "tranco": 113359,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.saramin.co.kr",
+    "url": "https://m.saramin.co.kr",
+    "rank": {
+      "tranco": 115451,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "wedisk.co.kr",
+    "url": "https://wedisk.co.kr",
+    "rank": {
+      "tranco": 116800,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.gmarket.co.kr",
+    "url": "https://m.gmarket.co.kr",
+    "rank": {
+      "tranco": 118842,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "g-disk.co.kr",
+    "url": "https://g-disk.co.kr",
+    "rank": {
+      "tranco": 119753,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "idfarm.co.kr",
+    "url": "https://idfarm.co.kr",
+    "rank": {
+      "tranco": 119801,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "bigfile.co.kr",
+    "url": "https://bigfile.co.kr",
+    "rank": {
+      "tranco": 120444,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "scholar.google.co.kr",
+    "url": "https://scholar.google.co.kr",
+    "rank": {
+      "tranco": 121380,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "news.kbs.co.kr",
+    "url": "https://news.kbs.co.kr",
+    "rank": {
+      "tranco": 122007,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "nice.checkplus.co.kr",
+    "url": "https://nice.checkplus.co.kr",
+    "rank": {
+      "tranco": 122712,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "unipass.customs.go.kr",
+    "url": "https://unipass.customs.go.kr",
+    "rank": {
+      "tranco": 122983,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.hanacard.co.kr",
+    "url": "https://m.hanacard.co.kr",
+    "rank": {
+      "tranco": 123628,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "clipartkorea.co.kr",
+    "url": "https://clipartkorea.co.kr",
+    "rank": {
+      "tranco": 124210,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "sports.khan.co.kr",
+    "url": "https://sports.khan.co.kr",
+    "rank": {
+      "tranco": 125925,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "product.kyobobook.co.kr",
+    "url": "https://product.kyobobook.co.kr",
+    "rank": {
+      "tranco": 126116,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "news.jtbc.co.kr",
+    "url": "https://news.jtbc.co.kr",
+    "rank": {
+      "tranco": 126455,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.todayhumor.co.kr",
+    "url": "https://m.todayhumor.co.kr",
+    "rank": {
+      "tranco": 126479,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.andar.co.kr",
+    "url": "https://m.andar.co.kr",
+    "rank": {
+      "tranco": 126509,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.bunjang.co.kr",
+    "url": "https://m.bunjang.co.kr",
+    "rank": {
+      "tranco": 126618,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.fomos.kr",
+    "url": "https://m.fomos.kr",
+    "rank": {
+      "tranco": 126627,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "safe.ok-name.co.kr",
+    "url": "https://safe.ok-name.co.kr",
+    "rank": {
+      "tranco": 126742,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "api.mjbiz.co.kr",
+    "url": "https://api.mjbiz.co.kr",
+    "rank": {
+      "tranco": 127069,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.ytn.co.kr",
+    "url": "https://m.ytn.co.kr",
+    "rank": {
+      "tranco": 128219,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "mid.ebs.co.kr",
+    "url": "https://mid.ebs.co.kr",
+    "rank": {
+      "tranco": 128230,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "news.einfomax.co.kr",
+    "url": "https://news.einfomax.co.kr",
+    "rank": {
+      "tranco": 128571,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.jobkorea.co.kr",
+    "url": "https://m.jobkorea.co.kr",
+    "rank": {
+      "tranco": 128831,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "auth.skt-id.co.kr",
+    "url": "https://auth.skt-id.co.kr",
+    "rank": {
+      "tranco": 128912,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.nownews.seoul.co.kr",
+    "url": "https://m.nownews.seoul.co.kr",
+    "rank": {
+      "tranco": 129178,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "11stapp.11st.co.kr",
+    "url": "https://11stapp.11st.co.kr",
+    "rank": {
+      "tranco": 129558,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "4insure.or.kr",
+    "url": "https://4insure.or.kr",
+    "rank": {
+      "tranco": 129614,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "api.cpq.co.kr",
+    "url": "https://api.cpq.co.kr",
+    "rank": {
+      "tranco": 130009,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "apply.lh.or.kr",
+    "url": "https://apply.lh.or.kr",
+    "rank": {
+      "tranco": 130202,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "artmug.kr",
+    "url": "https://artmug.kr",
+    "rank": {
+      "tranco": 130283,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "avsubs.co.kr",
+    "url": "https://avsubs.co.kr",
+    "rank": {
+      "tranco": 130403,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "buzzvil.mocation.co.kr",
+    "url": "https://buzzvil.mocation.co.kr",
+    "rank": {
+      "tranco": 130738,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "byv.co.kr",
+    "url": "https://byv.co.kr",
+    "rank": {
+      "tranco": 130747,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "dbdbschool.kr",
+    "url": "https://dbdbschool.kr",
+    "rank": {
+      "tranco": 131315,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "doctorville.co.kr",
+    "url": "https://doctorville.co.kr",
+    "rank": {
+      "tranco": 131501,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "dotal.or.kr",
+    "url": "https://dotal.or.kr",
+    "rank": {
+      "tranco": 131518,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "edu.kohi.or.kr",
+    "url": "https://edu.kohi.or.kr",
+    "rank": {
+      "tranco": 131684,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "el.dhlottery.co.kr",
+    "url": "https://el.dhlottery.co.kr",
+    "rank": {
+      "tranco": 131746,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "etk.srail.kr",
+    "url": "https://etk.srail.kr",
+    "rank": {
+      "tranco": 132058,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "foresttrip.go.kr",
+    "url": "https://foresttrip.go.kr",
+    "rank": {
+      "tranco": 132261,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "gvs.gosims.go.kr",
+    "url": "https://gvs.gosims.go.kr",
+    "rank": {
+      "tranco": 132595,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "hana.svote.kr",
+    "url": "https://hana.svote.kr",
+    "rank": {
+      "tranco": 132621,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "hangloo.co.kr",
+    "url": "https://hangloo.co.kr",
+    "rank": {
+      "tranco": 132623,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "hi.goe.go.kr",
+    "url": "https://hi.goe.go.kr",
+    "rank": {
+      "tranco": 132673,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "hiring.saramin.co.kr",
+    "url": "https://hiring.saramin.co.kr",
+    "rank": {
+      "tranco": 132703,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "kissinfo.co.kr",
+    "url": "https://kissinfo.co.kr",
+    "rank": {
+      "tranco": 133343,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "lcms.or.kr",
+    "url": "https://lcms.or.kr",
+    "rank": {
+      "tranco": 133454,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.bananamall.co.kr",
+    "url": "https://m.bananamall.co.kr",
+    "rank": {
+      "tranco": 133750,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.betman.co.kr",
+    "url": "https://m.betman.co.kr",
+    "rank": {
+      "tranco": 133766,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.bnkrmall.co.kr",
+    "url": "https://m.bnkrmall.co.kr",
+    "rank": {
+      "tranco": 133770,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.g-disk.co.kr",
+    "url": "https://m.g-disk.co.kr",
+    "rank": {
+      "tranco": 133821,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.idpaper.co.kr",
+    "url": "https://m.idpaper.co.kr",
+    "rank": {
+      "tranco": 133845,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.kra.co.kr",
+    "url": "https://m.kra.co.kr",
+    "rank": {
+      "tranco": 133870,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.megafile.co.kr",
+    "url": "https://m.megafile.co.kr",
+    "rank": {
+      "tranco": 133881,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.mootoon.co.kr",
+    "url": "https://m.mootoon.co.kr",
+    "rank": {
+      "tranco": 133888,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.wedisk.co.kr",
+    "url": "https://m.wedisk.co.kr",
+    "rank": {
+      "tranco": 133976,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.wikitree.co.kr",
+    "url": "https://m.wikitree.co.kr",
+    "rank": {
+      "tranco": 133978,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.work24.go.kr",
+    "url": "https://m.work24.go.kr",
+    "rank": {
+      "tranco": 133980,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.yonhapnewstv.co.kr",
+    "url": "https://m.yonhapnewstv.co.kr",
+    "rank": {
+      "tranco": 133988,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "mnews.sbs.co.kr",
+    "url": "https://mnews.sbs.co.kr",
+    "rank": {
+      "tranco": 134309,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "my.gmarket.co.kr",
+    "url": "https://my.gmarket.co.kr",
+    "rank": {
+      "tranco": 134484,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "news.hidoc.co.kr",
+    "url": "https://news.hidoc.co.kr",
+    "rank": {
+      "tranco": 134674,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "nutrione.co.kr",
+    "url": "https://nutrione.co.kr",
+    "rank": {
+      "tranco": 134772,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "partner.couponwallet.co.kr",
+    "url": "https://partner.couponwallet.co.kr",
+    "rank": {
+      "tranco": 135033,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "q-net.or.kr",
+    "url": "https://q-net.or.kr",
+    "rank": {
+      "tranco": 135564,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "race.kra.co.kr",
+    "url": "https://race.kra.co.kr",
+    "rank": {
+      "tranco": 135611,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "school.littlefox.co.kr",
+    "url": "https://school.littlefox.co.kr",
+    "rank": {
+      "tranco": 136037,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "service.epost.go.kr",
+    "url": "https://service.epost.go.kr",
+    "rank": {
+      "tranco": 136181,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "si4n.nhis.or.kr",
+    "url": "https://si4n.nhis.or.kr",
+    "rank": {
+      "tranco": 136308,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "soffice.11st.co.kr",
+    "url": "https://soffice.11st.co.kr",
+    "rank": {
+      "tranco": 136552,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "sp.hi.co.kr",
+    "url": "https://sp.hi.co.kr",
+    "rank": {
+      "tranco": 136589,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ssgo.scourt.go.kr",
+    "url": "https://ssgo.scourt.go.kr",
+    "rank": {
+      "tranco": 136670,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "store.nintendo.co.kr",
+    "url": "https://store.nintendo.co.kr",
+    "rank": {
+      "tranco": 136735,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "swadpia.co.kr",
+    "url": "https://swadpia.co.kr",
+    "rank": {
+      "tranco": 136859,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "xn--2z1bw8k1pjz5ccumkb.kr",
+    "url": "https://www.xn--2z1bw8k1pjz5ccumkb.kr",
+    "rank": {
+      "tranco": 142082,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "i-sh.co.kr",
+    "url": "https://i-sh.co.kr",
+    "rank": {
+      "tranco": 156908,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "tvreport.co.kr",
+    "url": "https://tvreport.co.kr",
+    "rank": {
+      "tranco": 157773,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ff14.co.kr",
+    "url": "https://ff14.co.kr",
+    "rank": {
+      "tranco": 162783,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "autotribune.co.kr",
+    "url": "https://autotribune.co.kr",
+    "rank": {
+      "tranco": 180903,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.seoul.co.kr",
+    "url": "https://m.seoul.co.kr",
+    "rank": {
+      "tranco": 207313,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "commerccc.co.kr",
+    "url": "https://commerccc.co.kr",
+    "rank": {
+      "tranco": 208551,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "fifaonline4.inven.co.kr",
+    "url": "https://fifaonline4.inven.co.kr",
+    "rank": {
+      "tranco": 208736,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "gold-rain.co.kr",
+    "url": "https://gold-rain.co.kr",
+    "rank": {
+      "tranco": 208800,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.adiga.kr",
+    "url": "https://m.adiga.kr",
+    "rank": {
+      "tranco": 208989,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.directdb.co.kr",
+    "url": "https://m.directdb.co.kr",
+    "rank": {
+      "tranco": 208995,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.lina.co.kr",
+    "url": "https://m.lina.co.kr",
+    "rank": {
+      "tranco": 209006,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "portal.hanyang.ac.kr",
+    "url": "https://portal.hanyang.ac.kr",
+    "rank": {
+      "tranco": 209262,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "portal.kosaf.go.kr",
+    "url": "https://portal.kosaf.go.kr",
+    "rank": {
+      "tranco": 209264,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "safedriving.or.kr",
+    "url": "https://safedriving.or.kr",
+    "rank": {
+      "tranco": 209365,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "socinet.go.kr",
+    "url": "https://socinet.go.kr",
+    "rank": {
+      "tranco": 209495,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.bravo.etoday.co.kr",
+    "url": "https://m.bravo.etoday.co.kr",
+    "rank": {
+      "tranco": 281337,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "sugang.snu.ac.kr",
+    "url": "https://sugang.snu.ac.kr",
+    "rank": {
+      "tranco": 281572,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "webinfo.dankook.ac.kr",
+    "url": "https://webinfo.dankook.ac.kr",
+    "rank": {
+      "tranco": 281663,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "sugang.hongik.ac.kr",
+    "url": "https://sugang.hongik.ac.kr",
+    "rank": {
+      "tranco": 346769,
+      "crux": 1000
+    }
+  },
+  {
+    "website": "01.avovo.net",
+    "url": "https://01.avovo.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "01.avovo.tv",
+    "url": "https://01.avovo.tv",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "01.avsee.is",
+    "url": "https://01.avsee.is",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "09.avsee.ru",
+    "url": "https://09.avsee.ru",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "119sh.com",
+    "url": "https://119sh.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "123av.com",
+    "url": "https://123av.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "123av.org",
+    "url": "https://123av.org",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "141jav.com",
+    "url": "https://www.141jav.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "19damoa.org",
+    "url": "https://www.19damoa.org",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "19wiki6.com",
+    "url": "https://19wiki6.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "19wiki7.com",
+    "url": "https://19wiki7.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "19wiki8.com",
+    "url": "https://19wiki8.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "25.xbbg.tv",
+    "url": "https://25.xbbg.tv",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "26.xbbg.tv",
+    "url": "https://26.xbbg.tv",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "27.xbbg.tv",
+    "url": "https://27.xbbg.tv",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "28.xbbg.tv",
+    "url": "https://28.xbbg.tv",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "29.xbbg.tv",
+    "url": "https://29.xbbg.tv",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "3.jbgirl.tv",
+    "url": "https://3.jbgirl.tv",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "30.xbbg.tv",
+    "url": "https://30.xbbg.tv",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "31.xbbg.tv",
+    "url": "https://31.xbbg.tv",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "32.xbbg.tv",
+    "url": "https://32.xbbg.tv",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "52shuku.net",
+    "url": "https://www.52shuku.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "82cook.com",
+    "url": "https://www.82cook.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "91porna.com",
+    "url": "https://91porna.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "a-ha.io",
+    "url": "https://www.a-ha.io",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "aagag.com",
+    "url": "https://aagag.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "account.lguplus.com",
+    "url": "https://account.lguplus.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "accounts.commerce.naver.com",
+    "url": "https://accounts.commerce.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "accounts.google.com",
+    "url": "https://accounts.google.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "accounts.hangame.com",
+    "url": "https://accounts.hangame.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "accounts.kakao.com",
+    "url": "https://accounts.kakao.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ad.buzzvil.com",
+    "url": "https://ad.buzzvil.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "admin.blog.naver.com",
+    "url": "https://admin.blog.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "admin.pay.naver.com",
+    "url": "https://admin.pay.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ads.naver.com",
+    "url": "https://ads.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "adsmanager.facebook.com",
+    "url": "https://adsmanager.facebook.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "advertising.coupang.com",
+    "url": "https://advertising.coupang.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "advice.hyundaicard.com",
+    "url": "https://advice.hyundaicard.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "aion2.plaync.com",
+    "url": "https://aion2.plaync.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "albamon.com",
+    "url": "https://www.albamon.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "amazon.co.jp",
+    "url": "https://www.amazon.co.jp",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ani.ohli24.com",
+    "url": "https://ani.ohli24.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "anilife.live",
+    "url": "https://anilife.live",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "aniweek.com",
+    "url": "https://aniweek.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "api.quizclick.io",
+    "url": "https://api.quizclick.io",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "app.notion.com",
+    "url": "https://app.notion.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "approval.office.hiworks.com",
+    "url": "https://approval.office.hiworks.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "aragonk.com",
+    "url": "https://aragonk.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "archiveofourown.org",
+    "url": "https://archiveofourown.org",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "aven3.casino",
+    "url": "https://aven3.casino",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ay267.com",
+    "url": "https://ay267.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "babechat.ai",
+    "url": "https://babechat.ai",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "baedalpan.com",
+    "url": "https://www.baedalpan.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "balpumnews.com",
+    "url": "https://www.balpumnews.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "bam003.com",
+    "url": "https://bam003.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "bamgad8.com",
+    "url": "https://bamgad8.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "band.us",
+    "url": "https://www.band.us",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "banking.nonghyup.com",
+    "url": "https://banking.nonghyup.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "barotem.com",
+    "url": "https://www.barotem.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "barracks.sa.nexon.com",
+    "url": "https://barracks.sa.nexon.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "base.cjonstyle.com",
+    "url": "https://base.cjonstyle.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "base64decode.org",
+    "url": "https://www.base64decode.org",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "bblaa.com",
+    "url": "https://bblaa.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "bbs.pdpop.com",
+    "url": "https://bbs.pdpop.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "bbs.ruliweb.com",
+    "url": "https://bbs.ruliweb.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "best.aliexpress.com",
+    "url": "https://best.aliexpress.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "bestjavporn.com",
+    "url": "https://www.bestjavporn.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "bgu5.com",
+    "url": "https://bgu5.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "bgu6.com",
+    "url": "https://bgu6.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "binance.com",
+    "url": "https://www.binance.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "biz.chosun.com",
+    "url": "https://biz.chosun.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "blacktoon419.com",
+    "url": "https://blacktoon419.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "blacktoon421.com",
+    "url": "https://blacktoon421.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "blacktoonurls.com",
+    "url": "https://www.blacktoonurls.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "blacktv22.com",
+    "url": "https://blacktv22.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "bluewings1995.com",
+    "url": "https://bluewings1995.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "booth.pm",
+    "url": "https://booth.pm",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "brand.naver.com",
+    "url": "https://brand.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "bridge.treasurecomics.com",
+    "url": "https://bridge.treasurecomics.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "brikorea.com",
+    "url": "https://brikorea.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "budal27.net",
+    "url": "https://budal27.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "busanb41.net",
+    "url": "https://busanb41.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "business.kakao.com",
+    "url": "https://business.kakao.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "buyma.com",
+    "url": "https://www.buyma.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "buzzad.buzzvil.com",
+    "url": "https://buzzad.buzzvil.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "cafe.daum.net",
+    "url": "https://cafe.daum.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "calendar.google.com",
+    "url": "https://calendar.google.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "campaign2.naver.com",
+    "url": "https://campaign2.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "car.encar.com",
+    "url": "https://car.encar.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "cart.coupang.com",
+    "url": "https://cart.coupang.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "cem.nexon.com",
+    "url": "https://cem.nexon.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "chating.wiki",
+    "url": "https://chating.wiki",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "chess.com",
+    "url": "https://www.chess.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "chimhaha.net",
+    "url": "https://chimhaha.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "chuggu.net",
+    "url": "https://www.chuggu.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "chzzk.naver.com",
+    "url": "https://chzzk.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ci-en.dlsite.com",
+    "url": "https://ci-en.dlsite.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "cjlogistics.com",
+    "url": "https://www.cjlogistics.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "cjwwm.cj.net",
+    "url": "https://cjwwm.cj.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "classcard.net",
+    "url": "https://www.classcard.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "classroom.google.com",
+    "url": "https://classroom.google.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "coinpan.com",
+    "url": "https://coinpan.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "comcbt.com",
+    "url": "https://www.comcbt.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "comic.naver.com",
+    "url": "https://comic.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "contents.premium.naver.com",
+    "url": "https://contents.premium.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "cookmana.com",
+    "url": "https://cookmana.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "coolenjoy.net",
+    "url": "https://coolenjoy.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "coupangplay.com",
+    "url": "https://www.coupangplay.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "crack.wrtn.ai",
+    "url": "https://crack.wrtn.ai",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "crepe.cm",
+    "url": "https://crepe.cm",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "crewnet.koreanair.com",
+    "url": "https://crewnet.koreanair.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "crm.bodycodi.com",
+    "url": "https://crm.bodycodi.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "cultureinfo.ai",
+    "url": "https://cultureinfo.ai",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "cyphers.nexon.com",
+    "url": "https://cyphers.nexon.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "daangn.com",
+    "url": "https://www.daangn.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "dak.gg",
+    "url": "https://dak.gg",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "damoang.net",
+    "url": "https://damoang.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "danbooru.donmai.us",
+    "url": "https://danbooru.donmai.us",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "darkg17.com",
+    "url": "https://darkg17.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "darkgirl14.com",
+    "url": "https://darkgirl14.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "darkgirl15.com",
+    "url": "https://darkgirl15.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "dctribe.com",
+    "url": "https://dctribe.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ddaltime188.com",
+    "url": "https://ddaltime188.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "detail.1688.com",
+    "url": "https://detail.1688.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "deviantart.com",
+    "url": "https://www.deviantart.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "df.nexon.com",
+    "url": "https://df.nexon.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "dict.naver.com",
+    "url": "https://dict.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "digimonmasters.com",
+    "url": "https://www.digimonmasters.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "diningcode.com",
+    "url": "https://www.diningcode.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "direct.samsungfire.com",
+    "url": "https://direct.samsungfire.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "disneyplus.com",
+    "url": "https://www.disneyplus.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "dlm19.net",
+    "url": "https://dlm19.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "dlsite.com",
+    "url": "https://www.dlsite.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "dmitory.com",
+    "url": "https://www.dmitory.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "docs.google.com",
+    "url": "https://docs.google.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "doryeong.app",
+    "url": "https://doryeong.app",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "drive.google.com",
+    "url": "https://drive.google.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "drive.usercontent.google.com",
+    "url": "https://drive.usercontent.google.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "dvdprime.com",
+    "url": "https://dvdprime.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "dxsmapp.cjlogistics.com",
+    "url": "https://dxsmapp.cjlogistics.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "e-hentai.org",
+    "url": "https://e-hentai.org",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ebay.com",
+    "url": "https://www.ebay.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "elearning.samsungenglish.com",
+    "url": "https://elearning.samsungenglish.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "emart.ssg.com",
+    "url": "https://emart.ssg.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "en.dict.naver.com",
+    "url": "https://en.dict.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "en.wikipedia.org",
+    "url": "https://en.wikipedia.org",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "encar.com",
+    "url": "https://www.encar.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "enterjoy.day",
+    "url": "https://enterjoy.day",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "eo-m.com",
+    "url": "https://www.eo-m.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "eorn5.com",
+    "url": "https://eorn5.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "eorn6.com",
+    "url": "https://eorn6.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "eporner.com",
+    "url": "https://www.eporner.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "erome.com",
+    "url": "https://www.erome.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "erpprd.koreanair.com",
+    "url": "https://erpprd.koreanair.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "esmplus.com",
+    "url": "https://www.esmplus.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "eventkiki.com",
+    "url": "https://eventkiki.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "events.fconline.nexon.com",
+    "url": "https://events.fconline.nexon.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "evergreenjb.me",
+    "url": "https://evergreenjb.me",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "exhentai.org",
+    "url": "https://exhentai.org",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "extmovie.com",
+    "url": "https://extmovie.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "extra.filejo.com",
+    "url": "https://extra.filejo.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ezgroupware.bizmeka.com",
+    "url": "https://ezgroupware.bizmeka.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "fanbinit.us",
+    "url": "https://fanbinit.us",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "fantrie.com",
+    "url": "https://fantrie.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "fconline.nexon.com",
+    "url": "https://fconline.nexon.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "fcseoulite.me",
+    "url": "https://fcseoulite.me",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "fem.encar.com",
+    "url": "https://fem.encar.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "filejo.com",
+    "url": "https://www.filejo.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "filesun.com",
+    "url": "https://www.filesun.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "fin.land.naver.com",
+    "url": "https://fin.land.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "finance.daum.net",
+    "url": "https://finance.daum.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "finance.naver.com",
+    "url": "https://finance.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "flyasiana.com",
+    "url": "https://flyasiana.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "fnnews.com",
+    "url": "https://www.fnnews.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "foodspring.airbridge.io",
+    "url": "https://foodspring.airbridge.io",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "form.naver.com",
+    "url": "https://form.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "fow.lol",
+    "url": "https://www.fow.lol",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "fractionfridgejudiciary.com",
+    "url": "https://fractionfridgejudiciary.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "freethread.net",
+    "url": "https://freethread.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "fs1reboot.joycity.com",
+    "url": "https://fs1reboot.joycity.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "gall.dcinside.com",
+    "url": "https://gall.dcinside.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "gallog.dcinside.com",
+    "url": "https://gallog.dcinside.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "game.naver.com",
+    "url": "https://game.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "gasengi.com",
+    "url": "https://www.gasengi.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "gezip.net",
+    "url": "https://gezip.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "gf.treasurecomics.com",
+    "url": "https://gf.treasurecomics.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ggbam16.com",
+    "url": "https://ggbam16.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ggoorr.net",
+    "url": "https://ggoorr.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "gift-talk.kakao.com",
+    "url": "https://gift-talk.kakao.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "gukjenews.com",
+    "url": "https://www.gukjenews.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "gumvit.com",
+    "url": "https://www.gumvit.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "hanime.tv",
+    "url": "https://hanime.tv",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "hanime1.me",
+    "url": "https://hanime1.me",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "hankookilbo.com",
+    "url": "https://www.hankookilbo.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "health.chosun.com",
+    "url": "https://health.chosun.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "hearheart.com",
+    "url": "https://hearheart.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "hellkaiv.net",
+    "url": "https://hellkaiv.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "hentaiera.com",
+    "url": "https://hentaiera.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "hibrain.net",
+    "url": "https://www.hibrain.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "hiphople.com",
+    "url": "https://hiphople.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "hitomi.la",
+    "url": "https://hitomi.la",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "hmall.com",
+    "url": "https://www.hmall.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "home.pay.naver.com",
+    "url": "https://home.pay.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "homepy.korean.net",
+    "url": "http://homepy.korean.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "hoohootv1.org",
+    "url": "https://hoohootv1.org",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "hotssul.com",
+    "url": "https://hotssul.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "hse.samsungshi.com",
+    "url": "https://hse.samsungshi.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "huggingface.co",
+    "url": "https://huggingface.co",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "hygall.com",
+    "url": "https://hygall.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "hyundaicard.com",
+    "url": "https://www.hyundaicard.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ibispaint.com",
+    "url": "https://ibispaint.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ibz.nonghyup.com",
+    "url": "https://ibz.nonghyup.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "id.payco.com",
+    "url": "https://id.payco.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "idolfap.com",
+    "url": "https://idolfap.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "igunsul.net",
+    "url": "https://www.igunsul.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ikea.com",
+    "url": "https://www.ikea.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ilbe.com",
+    "url": "https://www.ilbe.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "image.dcinside.com",
+    "url": "https://image.dcinside.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "imhentai.xxx",
+    "url": "https://imhentai.xxx",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "imnews.imbc.com",
+    "url": "https://imnews.imbc.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "indischool.com",
+    "url": "https://indischool.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "instiz.net",
+    "url": "https://www.instiz.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "insurance.pay.naver.com",
+    "url": "https://insurance.pay.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "itemmania.com",
+    "url": "https://www.itemmania.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "itemthankyou.com",
+    "url": "https://www.itemthankyou.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ivancity.com",
+    "url": "https://ivancity.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "jaddal40.top",
+    "url": "https://jaddal40.top",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "jaddal41.top",
+    "url": "https://jaddal41.top",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "japaneseasmr.com",
+    "url": "https://japaneseasmr.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "jav.guru",
+    "url": "https://jav.guru",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "javbus.com",
+    "url": "https://www.javbus.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "javdock.com",
+    "url": "https://www.javdock.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "javhdporn.net",
+    "url": "https://www.javhdporn.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "javlibrary.com",
+    "url": "https://www.javlibrary.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "javrank.com",
+    "url": "https://javrank.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "javtiful.com",
+    "url": "https://javtiful.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "jinhak.com",
+    "url": "https://www.jinhak.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "jjaptoon005.com",
+    "url": "https://www.jjaptoon005.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "jjaptoon006.com",
+    "url": "https://www.jjaptoon006.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "jogemoa1.com",
+    "url": "https://jogemoa1.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "jogemoa14.com",
+    "url": "https://jogemoa14.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "jusocon14.com",
+    "url": "https://jusocon14.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "jusocon15.com",
+    "url": "https://jusocon15.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "kauth.kakao.com",
+    "url": "https://kauth.kakao.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "kf.carsstore365.com",
+    "url": "https://kf.carsstore365.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "kia.com",
+    "url": "https://www.kia.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "kio.ac",
+    "url": "https://kio.ac",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "kissxx1.com",
+    "url": "https://kissxx1.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "kmcert.com",
+    "url": "https://www.kmcert.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ko.aliexpress.com",
+    "url": "https://ko.aliexpress.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ko.fhplatinum.com",
+    "url": "https://ko.fhplatinum.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ko.idolfap.com",
+    "url": "https://ko.idolfap.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ko.namemc.com",
+    "url": "https://ko.namemc.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ko.spankbang.party",
+    "url": "https://ko.spankbang.party",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ko.stripchat.com",
+    "url": "https://ko.stripchat.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ko.stripchat.mov",
+    "url": "https://ko.stripchat.mov",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ko.wikipedia.org",
+    "url": "https://ko.wikipedia.org",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ko.xhamster.desi",
+    "url": "https://ko.xhamster.desi",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ko.xhamster1.desi",
+    "url": "https://ko.xhamster1.desi",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ko.xhamster2.com",
+    "url": "https://ko.xhamster2.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ko.xhfanclub.com",
+    "url": "https://ko.xhfanclub.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ko.xhname.com",
+    "url": "https://ko.xhname.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ko.xhplus.live",
+    "url": "https://ko.xhplus.live",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "korail.com",
+    "url": "https://www.korail.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "koreadaily.com",
+    "url": "https://www.koreadaily.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "koreapas.com",
+    "url": "https://www.koreapas.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "kr-weathernews.com",
+    "url": "https://www.kr-weathernews.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "kr.iherb.com",
+    "url": "https://kr.iherb.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "kr.investing.com",
+    "url": "https://kr.investing.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "kr.pinterest.com",
+    "url": "https://kr.pinterest.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "kr.playblackdesert.com",
+    "url": "https://www.kr.playblackdesert.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "kr.shindanmaker.com",
+    "url": "https://kr.shindanmaker.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "kr.tradingview.com",
+    "url": "https://kr.tradingview.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "kr.trip.com",
+    "url": "https://kr.trip.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "kr.xchina.co",
+    "url": "https://kr.xchina.co",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "kr14.ddaltube.com",
+    "url": "https://kr14.ddaltube.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "kr15.ddaltube.com",
+    "url": "https://kr15.ddaltube.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "kr17.ddal.xyz",
+    "url": "https://kr17.ddal.xyz",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "kr18.ddal.xyz",
+    "url": "https://kr18.ddal.xyz",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "kr32.javgirl.co",
+    "url": "https://kr32.javgirl.co",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "kr45.topgirl.co",
+    "url": "https://kr45.topgirl.co",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "kr46.topgirl.co",
+    "url": "https://kr46.topgirl.co",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "kr88.sogirl.so",
+    "url": "https://kr88.sogirl.so",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "kr9.ddalsney.com",
+    "url": "https://kr9.ddalsney.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "kyeonggi.com",
+    "url": "https://www.kyeonggi.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "labs.google",
+    "url": "https://labs.google",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "laftel.net",
+    "url": "https://laftel.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "lamu.club",
+    "url": "https://lamu.club",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "land.naver.com",
+    "url": "https://land.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "latale.com",
+    "url": "https://www.latale.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "lezhin.com",
+    "url": "https://www.lezhin.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "lineageclassic.plaync.com",
+    "url": "https://lineageclassic.plaync.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "link.coupang.com",
+    "url": "https://link.coupang.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "linkedin.com",
+    "url": "https://www.linkedin.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "linkkf.app",
+    "url": "https://linkkf.app",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "linkkf.milkahamster.com",
+    "url": "https://linkkf.milkahamster.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "linkkf.tckopke.com",
+    "url": "https://linkkf.tckopke.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "login.coupang.com",
+    "url": "https://login.coupang.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "login.sooplive.com",
+    "url": "https://login.sooplive.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "lol.ps",
+    "url": "https://lol.ps",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "lostark.game.onstove.com",
+    "url": "https://lostark.game.onstove.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "lounge.kurly.com",
+    "url": "https://lounge.kurly.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "lover938.net",
+    "url": "https://lover938.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "lunatalk.chat",
+    "url": "https://lunatalk.chat",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m-kr.atomy.com",
+    "url": "https://m-kr.atomy.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m-wing.coupang.com",
+    "url": "https://m-wing.coupang.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.10000recipe.com",
+    "url": "https://m.10000recipe.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.brand.naver.com",
+    "url": "https://m.brand.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.cafe.daum.net",
+    "url": "https://m.cafe.daum.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.clien.net",
+    "url": "https://m.clien.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.comic.naver.com",
+    "url": "https://m.comic.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.corearoadbike.com",
+    "url": "https://m.corearoadbike.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.danawa.com",
+    "url": "https://m.danawa.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.daum.net",
+    "url": "https://m.daum.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.dcinside.com",
+    "url": "https://m.dcinside.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.entertain.naver.com",
+    "url": "https://m.entertain.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.facebook.com",
+    "url": "https://m.facebook.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.filejo.com",
+    "url": "https://m.filejo.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.filemong.com",
+    "url": "https://m.filemong.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.filenori.com",
+    "url": "https://m.filenori.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.fmkorea.com",
+    "url": "https://m.fmkorea.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.g-enews.com",
+    "url": "https://m.g-enews.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.game.naver.com",
+    "url": "https://m.game.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.gsshop.com",
+    "url": "https://m.gsshop.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.gumvit.com",
+    "url": "https://m.gumvit.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.humoruniv.com",
+    "url": "https://m.humoruniv.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.ilbe.com",
+    "url": "https://m.ilbe.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.imaeil.com",
+    "url": "https://m.imaeil.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.itemmania.com",
+    "url": "https://m.itemmania.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.kbanknow.com",
+    "url": "https://m.kbanknow.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.kbcard.com",
+    "url": "https://m.kbcard.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.kin.naver.com",
+    "url": "https://m.kin.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.lguplus.com",
+    "url": "https://m.lguplus.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.mail.naver.com",
+    "url": "https://m.mail.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.map.kakao.com",
+    "url": "https://m.map.kakao.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.map.naver.com",
+    "url": "https://m.map.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.nate.com",
+    "url": "https://m.nate.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.naver.com",
+    "url": "https://m.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.news.nate.com",
+    "url": "https://m.news.nate.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.notify.naver.com",
+    "url": "https://m.notify.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.novel.naver.com",
+    "url": "https://m.novel.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.ohmynews.com",
+    "url": "https://m.ohmynews.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.pann.nate.com",
+    "url": "https://m.pann.nate.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.pdpop.com",
+    "url": "https://m.pdpop.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.place.naver.com",
+    "url": "https://m.place.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.ruliweb.com",
+    "url": "https://m.ruliweb.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.search.daum.net",
+    "url": "https://m.search.daum.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.search.naver.com",
+    "url": "https://m.search.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.sedaily.com",
+    "url": "https://m.sedaily.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.shopping.naver.com",
+    "url": "https://m.shopping.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.slrclub.com",
+    "url": "https://m.slrclub.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.smartstore.naver.com",
+    "url": "https://m.smartstore.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.sports.naver.com",
+    "url": "https://m.sports.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.ssb114.com",
+    "url": "https://m.ssb114.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.ssg.com",
+    "url": "https://m.ssg.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.stock.naver.com",
+    "url": "https://m.stock.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.todisk.com",
+    "url": "https://m.todisk.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.toomics.com",
+    "url": "https://m.toomics.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.wooricard.com",
+    "url": "https://m.wooricard.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.yes24.com",
+    "url": "https://m.yes24.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.ygosu.com",
+    "url": "https://m.ygosu.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "m.youtube.com",
+    "url": "https://m.youtube.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "mabinogimobile.nexon.com",
+    "url": "https://mabinogimobile.nexon.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "machugi.io",
+    "url": "https://machugi.io",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "mail.daum.net",
+    "url": "https://mail.daum.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "mail.google.com",
+    "url": "https://mail.google.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "mail.naver.com",
+    "url": "https://mail.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "mail.worksmobile.com",
+    "url": "https://mail.worksmobile.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "mail3.nate.com",
+    "url": "https://mail3.nate.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "manpeace.org",
+    "url": "https://manpeace.org",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "maplescouter.com",
+    "url": "https://maplescouter.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "maplestory.nexon.com",
+    "url": "https://maplestory.nexon.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "mbiz.heraldcorp.com",
+    "url": "https://mbiz.heraldcorp.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "mc.coupang.com",
+    "url": "https://mc.coupang.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "mdguru.net",
+    "url": "https://mdguru.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "media.naver.com",
+    "url": "https://media.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "megastudy.net",
+    "url": "https://www.megastudy.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "melon.com",
+    "url": "https://www.melon.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "member.kakaogames.com",
+    "url": "https://member.kakaogames.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "mimacstudy.com",
+    "url": "https://www.mimacstudy.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "mimitv1.com",
+    "url": "https://mimitv1.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "mingky06.live",
+    "url": "https://mingky06.live",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "mingky06.net",
+    "url": "https://mingky06.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "mingky07.tv",
+    "url": "https://mingky07.tv",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "mingky08.tv",
+    "url": "https://mingky08.tv",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "miricanvas.com",
+    "url": "https://www.miricanvas.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "missav.ws",
+    "url": "https://missav.ws",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "missav01.com",
+    "url": "https://missav01.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "missav888.com",
+    "url": "https://missav888.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "misschina.info",
+    "url": "https://misschina.info",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "mission-render-main.crescendo-ai.workers.dev",
+    "url": "https://mission-render-main.crescendo-ai.workers.dev",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "missvod7.com",
+    "url": "https://missvod7.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "mlbpark.donga.com",
+    "url": "https://mlbpark.donga.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "mobile.newsis.com",
+    "url": "https://mobile.newsis.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "monsnode.com",
+    "url": "https://monsnode.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "msearch.shopping.naver.com",
+    "url": "https://msearch.shopping.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "mstore.meritzfire.com",
+    "url": "https://mstore.meritzfire.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "munhwa.com",
+    "url": "https://www.munhwa.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "munpia.com",
+    "url": "https://www.munpia.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "music.youtube.com",
+    "url": "https://music.youtube.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "musinsa.com",
+    "url": "https://www.musinsa.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "mw.wisetoto.com",
+    "url": "https://mw.wisetoto.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "myaccount.google.com",
+    "url": "https://myaccount.google.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "myactivity.google.com",
+    "url": "https://myactivity.google.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "mybox.naver.com",
+    "url": "https://mybox.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "mycar.naver.com",
+    "url": "https://mycar.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "mypi.ruliweb.com",
+    "url": "https://mypi.ruliweb.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "mypikpak.com",
+    "url": "https://mypikpak.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "myreadingmanga.info",
+    "url": "https://myreadingmanga.info",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "myrealtrip.com",
+    "url": "https://www.myrealtrip.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "n-114.com",
+    "url": "https://n-114.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "n.news.naver.com",
+    "url": "https://n.news.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "najuda.com",
+    "url": "https://najuda.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "narto-drama.com",
+    "url": "https://narto-drama.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "nbi.wooribank.com",
+    "url": "https://nbi.wooribank.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "new.land.naver.com",
+    "url": "https://new.land.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "new.pdpop.com",
+    "url": "https://new.pdpop.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "new.smartplace.naver.com",
+    "url": "https://new.smartplace.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "news-wa.com",
+    "url": "https://www.news-wa.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "news.hada.io",
+    "url": "https://news.hada.io",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "news.yahoo.co.jp",
+    "url": "https://news.yahoo.co.jp",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "newxh.life",
+    "url": "https://newxh.life",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "nexusmods.com",
+    "url": "https://www.nexusmods.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ngwx.ktbizoffice.com",
+    "url": "https://ngwx.ktbizoffice.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "nid.naver.com",
+    "url": "https://nid.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "nightyd1.top",
+    "url": "https://nightyd1.top",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "nike.com",
+    "url": "https://www.nike.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "nikemania.com",
+    "url": "https://nikemania.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "njav.com",
+    "url": "https://www.njav.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "njtv-01.com",
+    "url": "https://njtv-01.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "nol.yanolja.com",
+    "url": "https://nol.yanolja.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "noonnu.cc",
+    "url": "https://noonnu.cc",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "nooo16.tv",
+    "url": "https://nooo16.tv",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "nooo17.tv",
+    "url": "https://nooo17.tv",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "nooo31.tv",
+    "url": "https://nooo31.tv",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "note.sooplive.com",
+    "url": "https://note.sooplive.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "novelpia.com",
+    "url": "https://novelpia.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "nozomi.la",
+    "url": "https://nozomi.la",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "nsl.pincrux.com",
+    "url": "https://nsl.pincrux.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "nxlogin.nexon.com",
+    "url": "https://nxlogin.nexon.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "obank.kbstar.com",
+    "url": "https://obank.kbstar.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "obiz.kbstar.com",
+    "url": "https://obiz.kbstar.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ofw.adison.co",
+    "url": "https://ofw.adison.co",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ohli24.net",
+    "url": "https://www.ohli24.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "on9.onlysex.co",
+    "url": "https://on9.onlysex.co",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "oncapan.com",
+    "url": "https://oncapan.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "one.google.com",
+    "url": "https://one.google.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "onejav.com",
+    "url": "https://onejav.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "opga040.com",
+    "url": "https://opga040.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "opga041.com",
+    "url": "https://opga041.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "opmart20.com",
+    "url": "https://opmart20.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "opmart21.com",
+    "url": "https://opmart21.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "opmart22.com",
+    "url": "https://opmart22.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "orders.pay.naver.com",
+    "url": "https://orders.pay.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "oy.run",
+    "url": "https://oy.run",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "padlet.com",
+    "url": "https://padlet.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "page.kakao.com",
+    "url": "https://page.kakao.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "pann.nate.com",
+    "url": "https://pann.nate.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "papago.naver.com",
+    "url": "https://papago.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "partner.booking.naver.com",
+    "url": "https://partner.booking.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "patreon.com",
+    "url": "https://www.patreon.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "pay.naver.com",
+    "url": "https://pay.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "pcc.siren24.com",
+    "url": "https://pcc.siren24.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "pf.kakao.com",
+    "url": "https://pf.kakao.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "pgr21.com",
+    "url": "https://pgr21.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "phdkim.net",
+    "url": "https://phdkim.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "pickdailynews.com",
+    "url": "https://www.pickdailynews.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "pimpbunny.com",
+    "url": "https://pimpbunny.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "pixabay.com",
+    "url": "https://pixabay.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "pixiv.net",
+    "url": "https://www.pixiv.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "play.google.com",
+    "url": "https://play.google.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "play.sooplive.com",
+    "url": "https://play.sooplive.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "play.vg-asia1.com",
+    "url": "https://play.vg-asia1.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "playentry.org",
+    "url": "https://playentry.org",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "player.sauceflex.com",
+    "url": "https://player.sauceflex.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "poe.kakaogames.com",
+    "url": "https://poe.kakaogames.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "poe.ninja",
+    "url": "https://poe.ninja",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "poedb.tw",
+    "url": "https://poedb.tw",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "point.pay.naver.com",
+    "url": "https://point.pay.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "pointhub.buzzvil.com",
+    "url": "https://pointhub.buzzvil.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "pokemon.fandom.com",
+    "url": "https://pokemon.fandom.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "pokerogue.net",
+    "url": "https://pokerogue.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "poni211.live",
+    "url": "https://poni211.live",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "pornavhd.com",
+    "url": "https://pornavhd.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "pornorama.com",
+    "url": "https://www.pornorama.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "prod.danawa.com",
+    "url": "https://prod.danawa.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "pubsvc.kakaogames.com",
+    "url": "https://pubsvc.kakaogames.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "qsm.qoo10.jp",
+    "url": "https://qsm.qoo10.jp",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "quasarzone.com",
+    "url": "https://quasarzone.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "queenalba.net",
+    "url": "https://queenalba.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "quick-tv.com",
+    "url": "https://quick-tv.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "redbogo16.com",
+    "url": "https://redbogo16.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "redbogo18.com",
+    "url": "https://redbogo18.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "redbogo21.com",
+    "url": "https://redbogo21.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "remotedesktop.google.com",
+    "url": "https://remotedesktop.google.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ridibooks.com",
+    "url": "https://ridibooks.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ro.gnjoy.com",
+    "url": "https://ro.gnjoy.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "rplay.live",
+    "url": "https://rplay.live",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "rule34.xxx",
+    "url": "https://rule34.xxx",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "rule34video.com",
+    "url": "https://rule34video.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "sa.nexon.com",
+    "url": "https://sa.nexon.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "samsungcard.com",
+    "url": "https://www.samsungcard.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "samsungfire.com",
+    "url": "https://www.samsungfire.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "sapi.mvshare.net",
+    "url": "https://sapi.mvshare.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "scholar.google.com",
+    "url": "https://scholar.google.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "script.google.com",
+    "url": "https://script.google.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "search.danawa.com",
+    "url": "https://search.danawa.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "search.daum.net",
+    "url": "https://search.daum.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "search.dcinside.com",
+    "url": "https://search.dcinside.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "search.naver.com",
+    "url": "https://search.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "search.shopping.naver.com",
+    "url": "https://search.shopping.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "search.yahoo.com",
+    "url": "https://search.yahoo.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "sell.smartstore.naver.com",
+    "url": "https://sell.smartstore.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "serieamania.com",
+    "url": "https://serieamania.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "series.naver.com",
+    "url": "https://series.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "seulca2.com",
+    "url": "https://seulca2.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "sexbam57.top",
+    "url": "https://sexbam57.top",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "sexbam58.top",
+    "url": "https://sexbam58.top",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "sexbjcam.com",
+    "url": "https://sexbjcam.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "sexflix25.com",
+    "url": "https://sexflix25.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "sextb.net",
+    "url": "https://sextb.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "shinhancard.com",
+    "url": "https://www.shinhancard.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "shop.coupang.com",
+    "url": "https://shop.coupang.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "shop.fconline.nexon.com",
+    "url": "https://shop.fconline.nexon.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "shopping-seller.kakao.com",
+    "url": "https://shopping-seller.kakao.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "shopping.naver.com",
+    "url": "https://shopping.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "shoppinglive.kakao.com",
+    "url": "https://shoppinglive.kakao.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "si-ran.com",
+    "url": "https://si-ran.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "sian2.casino",
+    "url": "https://sian2.casino",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "sign.dcinside.com",
+    "url": "https://sign.dcinside.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "signin.nexon.com",
+    "url": "https://signin.nexon.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "simpcity.cr",
+    "url": "https://simpcity.cr",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "sites.google.com",
+    "url": "https://sites.google.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "skcareers.com",
+    "url": "https://www.skcareers.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "slotnara2.com",
+    "url": "https://slotnara2.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "slrclub.com",
+    "url": "https://www.slrclub.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "smarta.wehago.com",
+    "url": "https://smarta.wehago.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "smarta.wehagot.com",
+    "url": "https://smarta.wehagot.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "smartstore.naver.com",
+    "url": "https://smartstore.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "soomgo.com",
+    "url": "https://soomgo.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "spankbang.party",
+    "url": "https://spankbang.party",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "spib.wooribank.com",
+    "url": "https://spib.wooribank.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "sports.daum.net",
+    "url": "https://sports.daum.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "sports.donga.com",
+    "url": "https://sports.donga.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "sports.news.nate.com",
+    "url": "https://sports.news.nate.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "sportschosun.com",
+    "url": "https://www.sportschosun.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ssadafile.com",
+    "url": "https://ssadafile.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ssfshop.com",
+    "url": "https://www.ssfshop.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ssg.airbridge.io",
+    "url": "https://ssg.airbridge.io",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ssg15.torrentssg8.com",
+    "url": "https://ssg15.torrentssg8.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ssgdfs.com",
+    "url": "https://www.ssgdfs.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "star-event.net",
+    "url": "https://star-event.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "starnewskorea.com",
+    "url": "https://www.starnewskorea.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "steamcommunity.com",
+    "url": "https://steamcommunity.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "store.kakao.com",
+    "url": "https://store.kakao.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "store.ohou.se",
+    "url": "https://store.ohou.se",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "store.steampowered.com",
+    "url": "https://store.steampowered.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "streamrecorder.io",
+    "url": "https://streamrecorder.io",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "studio.youtube.com",
+    "url": "https://studio.youtube.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "sukebei.nyaa.si",
+    "url": "https://sukebei.nyaa.si",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "supjav.com",
+    "url": "https://supjav.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "supplier.coupang.com",
+    "url": "https://supplier.coupang.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "support.google.com",
+    "url": "https://support.google.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "sxyprn.com",
+    "url": "https://sxyprn.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "t.me",
+    "url": "https://t.me",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "talk.naver.com",
+    "url": "https://talk.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "tango.sktelecom.com",
+    "url": "https://www.tango.sktelecom.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "tcafe21.com",
+    "url": "https://tcafe21.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "te31.com",
+    "url": "https://te31.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "teamblind.com",
+    "url": "https://www.teamblind.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "theporndude.com",
+    "url": "https://theporndude.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "thisvid.com",
+    "url": "https://thisvid.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "threads.com",
+    "url": "https://www.threads.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "tickets.interpark.com",
+    "url": "https://tickets.interpark.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "time.navyism.com",
+    "url": "https://time.navyism.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "tkor140.com",
+    "url": "https://tkor140.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "tkor141.com",
+    "url": "https://tkor141.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "tkor142.com",
+    "url": "https://tkor142.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "tkor143.com",
+    "url": "https://tkor143.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "tkor144.com",
+    "url": "https://tkor144.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "tkor145.com",
+    "url": "https://tkor145.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "tkor146.com",
+    "url": "https://tkor146.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "tkor147.com",
+    "url": "https://tkor147.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "tkor148.com",
+    "url": "https://tkor148.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "tnkfactory.com",
+    "url": "https://www.tnkfactory.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "today-sports10.com",
+    "url": "https://today-sports10.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "todisk.com",
+    "url": "https://www.todisk.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "tokyomotion.net",
+    "url": "https://www.tokyomotion.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "toonalt.com",
+    "url": "https://toonalt.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "topstarnews.net",
+    "url": "https://www.topstarnews.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "toptoon.com",
+    "url": "https://toptoon.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "torrentbot254.site",
+    "url": "https://torrentbot254.site",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "torrentbot255.site",
+    "url": "https://torrentbot255.site",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "torrentbot256.site",
+    "url": "https://torrentbot256.site",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "torrentbot257.site",
+    "url": "https://torrentbot257.site",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "torrentsee347.com",
+    "url": "https://torrentsee347.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "torrentsee348.com",
+    "url": "https://torrentsee348.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "torrentsee349.com",
+    "url": "https://torrentsee349.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "torrentsee350.com",
+    "url": "https://torrentsee350.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "torrentsee351.com",
+    "url": "https://torrentsee351.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "totosa10.com",
+    "url": "https://totosa10.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "tvchak.live",
+    "url": "https://tvchak.live",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "tvchak208.com",
+    "url": "https://tvchak208.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "tvhot2.com",
+    "url": "https://tvhot2.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "tvroom26.org",
+    "url": "https://tvroom26.org",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "tvroom27.org",
+    "url": "https://tvroom27.org",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "tvroom29.org",
+    "url": "https://tvroom29.org",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "tvroom30.org",
+    "url": "https://tvroom30.org",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "tvwiki15.space",
+    "url": "https://tvwiki15.space",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "tvwiki42.net",
+    "url": "https://tvwiki42.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "tvwiki43.net",
+    "url": "https://tvwiki43.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "tvwiki44.net",
+    "url": "https://tvwiki44.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "tvwiki45.net",
+    "url": "https://tvwiki45.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "tvwiki48.net",
+    "url": "https://tvwiki48.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "tvwikilnk.org",
+    "url": "https://www.tvwikilnk.org",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "tvwkwk1.tv",
+    "url": "https://tvwkwk1.tv",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "txnhh.com",
+    "url": "https://www.txnhh.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "uniqlo.com",
+    "url": "https://www.uniqlo.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "update.spotv24.com",
+    "url": "https://update.spotv24.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "v.daum.net",
+    "url": "https://v.daum.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "v12.battlepage.com",
+    "url": "https://v12.battlepage.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "v25.jogemovie.net",
+    "url": "https://v25.jogemovie.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "video.fc2.com",
+    "url": "https://video.fc2.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "videoxx.com",
+    "url": "https://www.videoxx.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "vidkidz.tistory.com",
+    "url": "https://vidkidz.tistory.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "vietnam.vn",
+    "url": "https://www.vietnam.vn",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "view.shoppinglive.naver.com",
+    "url": "https://view.shoppinglive.naver.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "vlr.gg",
+    "url": "https://www.vlr.gg",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "vod.sooplive.com",
+    "url": "https://vod.sooplive.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "wangtv3.com",
+    "url": "https://wangtv3.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "wangtv8.com",
+    "url": "https://wangtv8.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "wassada.com",
+    "url": "https://www.wassada.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "watvmedia.org",
+    "url": "https://watvmedia.org",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "web.humoruniv.com",
+    "url": "https://web.humoruniv.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "web.info21c.net",
+    "url": "https://web.info21c.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "wftoon222.com",
+    "url": "https://wftoon222.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "wftoon223.com",
+    "url": "https://wftoon223.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "wftoon224.com",
+    "url": "https://wftoon224.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "wftoon225.com",
+    "url": "https://wftoon225.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "wftoon226.com",
+    "url": "https://wftoon226.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "wfwf431.com",
+    "url": "https://wfwf431.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "wfwf432.com",
+    "url": "https://wfwf432.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "wfwf433.com",
+    "url": "https://wfwf433.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "wfwf434.com",
+    "url": "https://wfwf434.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "wfwf435.com",
+    "url": "https://wfwf435.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "wfwf436.com",
+    "url": "https://wfwf436.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "wfwf437.com",
+    "url": "https://wfwf437.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "wfwf438.com",
+    "url": "https://wfwf438.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "wfwf439.com",
+    "url": "https://wfwf439.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "wfwf479.com",
+    "url": "https://wfwf479.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "wfwf480.com",
+    "url": "https://wfwf480.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "wfwf481.com",
+    "url": "https://wfwf481.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "wfwf482.com",
+    "url": "https://wfwf482.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "wfwf483.com",
+    "url": "https://wfwf483.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "wfwf484.com",
+    "url": "https://wfwf484.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "wfwf485.com",
+    "url": "https://wfwf485.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "wfwf486.com",
+    "url": "https://wfwf486.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "wfwf487.com",
+    "url": "https://wfwf487.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "wfwf488.com",
+    "url": "https://wfwf488.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "wing.coupang.com",
+    "url": "https://wing.coupang.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "wisetoto.com",
+    "url": "https://www.wisetoto.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "wkorea.com",
+    "url": "https://www.wkorea.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "wol.jw.org",
+    "url": "https://wol.jw.org",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "xauth.coupang.com",
+    "url": "https://xauth.coupang.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "xexymix.com",
+    "url": "https://www.xexymix.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "xhaccess.com",
+    "url": "https://xhaccess.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "xhamster.com",
+    "url": "https://xhamster.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "xhamster.desi",
+    "url": "https://xhamster.desi",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "xhamster1.desi",
+    "url": "https://xhamster1.desi",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "xhamster3.com",
+    "url": "https://xhamster3.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "xhfanclub.com",
+    "url": "https://xhfanclub.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "xhname.com",
+    "url": "https://xhname.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "xhnetwork.blog",
+    "url": "https://xhnetwork.blog",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "xhnetwork.life",
+    "url": "https://xhnetwork.life",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "xhplus.live",
+    "url": "https://xhplus.live",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "xhtv.blog",
+    "url": "https://xhtv.blog",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "xn--2q1bl84a3e140c.com",
+    "url": "https://xn--2q1bl84a3e140c.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "xn--939au0g4vj8sq.net",
+    "url": "https://xn--939au0g4vj8sq.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "xn--9w3b43d58f04atzyznd.com",
+    "url": "https://xn--9w3b43d58f04atzyznd.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "xn--ok0b408a79cba430b.net",
+    "url": "https://www.xn--ok0b408a79cba430b.net",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "xnxx.com",
+    "url": "https://www.xnxx.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "xnxx2.com",
+    "url": "https://www.xnxx2.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "xportsnews.com",
+    "url": "https://www.xportsnews.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "xvideos-k8.com",
+    "url": "https://xvideos-k8.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "xvideos.es",
+    "url": "https://www.xvideos.es",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "xvideos2.com",
+    "url": "https://www.xvideos2.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "xvideos3.com",
+    "url": "https://www.xvideos3.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "xvv1deos.com",
+    "url": "https://www.xvv1deos.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "yaburi67.com",
+    "url": "https://yaburi67.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "yadong9.com",
+    "url": "https://yadong9.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "yadongkorea01.tv",
+    "url": "https://yadongkorea01.tv",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "yadongkorea02.tv",
+    "url": "https://yadongkorea02.tv",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "yadongkorea03.com",
+    "url": "https://yadongkorea03.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "yadongtv101.com",
+    "url": "https://yadongtv101.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "yadongtv103.com",
+    "url": "https://yadongtv103.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "yadongtv105.com",
+    "url": "https://yadongtv105.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "yagong94.com",
+    "url": "https://yagong94.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "yagong95.com",
+    "url": "https://yagong95.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "yako23.com",
+    "url": "https://yako23.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "yako42.com",
+    "url": "https://yako42.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "yako43.com",
+    "url": "https://yako43.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "yako44.com",
+    "url": "https://yako44.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "yaskorea03.tv",
+    "url": "https://yaskorea03.tv",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "yasul.top",
+    "url": "https://www.yasul.top",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ydking1.com",
+    "url": "https://ydking1.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ydmon22.com",
+    "url": "https://ydmon22.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ydmon23.com",
+    "url": "https://ydmon23.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ydparty05.tv",
+    "url": "https://ydparty05.tv",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ydparty08.tv",
+    "url": "https://ydparty08.tv",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ydtour57.sbs",
+    "url": "https://ydtour57.sbs",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ydtour58.sbs",
+    "url": "https://ydtour58.sbs",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ydtour59.sbs",
+    "url": "https://ydtour59.sbs",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ydtour60.sbs",
+    "url": "https://ydtour60.sbs",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ydtour61.sbs",
+    "url": "https://ydtour61.sbs",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ydtour62.sbs",
+    "url": "https://ydtour62.sbs",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ydtour63.sbs",
+    "url": "https://ydtour63.sbs",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ydtour65.sbs",
+    "url": "https://ydtour65.sbs",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "yeotop.org",
+    "url": "https://yeotop.org",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "yes24.com",
+    "url": "https://www.yes24.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ygking3.com",
+    "url": "https://ygking3.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ygosu.com",
+    "url": "https://ygosu.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "ym-03.com",
+    "url": "https://ym-03.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "yugiyu3.com",
+    "url": "https://yugiyu3.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "yugiyu4.com",
+    "url": "https://www.yugiyu4.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "yul-do.com",
+    "url": "https://yul-do.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "zzap208.com",
+    "url": "https://zzap208.com",
+    "rank": {
+      "crux": 1000
+    }
+  },
+  {
+    "website": "or.kr",
+    "url": "https://or.kr",
+    "rank": {
+      "tranco": 1227
     }
   },
   {
@@ -1933,59 +8427,10 @@
     }
   },
   {
-    "website": "hani.co.kr",
-    "url": "https://hani.co.kr",
-    "rank": {
-      "tranco": 11356
-    }
-  },
-  {
-    "website": "ondisk.co.kr",
-    "url": "https://ondisk.co.kr",
-    "rank": {
-      "tranco": 12048
-    }
-  },
-  {
-    "website": "mk.co.kr",
-    "url": "https://mk.co.kr",
-    "rank": {
-      "tranco": 12324
-    }
-  },
-  {
     "website": "tpmn.co.kr",
     "url": "https://tpmn.co.kr",
     "rank": {
       "tranco": 12549
-    }
-  },
-  {
-    "website": "ardentnews.co.kr",
-    "url": "https://ardentnews.co.kr",
-    "rank": {
-      "tranco": 13173
-    }
-  },
-  {
-    "website": "work24.go.kr",
-    "url": "https://work24.go.kr",
-    "rank": {
-      "tranco": 13660
-    }
-  },
-  {
-    "website": "link.gmarket.co.kr",
-    "url": "https://link.gmarket.co.kr",
-    "rank": {
-      "tranco": 14458
-    }
-  },
-  {
-    "website": "m.bobaedream.co.kr",
-    "url": "https://m.bobaedream.co.kr",
-    "rank": {
-      "tranco": 14927
     }
   },
   {
@@ -2035,20 +8480,6 @@
     "url": "https://whois.co.kr",
     "rank": {
       "tranco": 18380
-    }
-  },
-  {
-    "website": "aladin.co.kr",
-    "url": "https://aladin.co.kr",
-    "rank": {
-      "tranco": 19258
-    }
-  },
-  {
-    "website": "khan.co.kr",
-    "url": "https://khan.co.kr",
-    "rank": {
-      "tranco": 19493
     }
   },
   {
@@ -2129,24 +8560,10 @@
     }
   },
   {
-    "website": "news1.kr",
-    "url": "https://news1.kr",
-    "rank": {
-      "tranco": 24821
-    }
-  },
-  {
     "website": "adxcorp.kr",
     "url": "https://adxcorp.kr",
     "rank": {
       "tranco": 25422
-    }
-  },
-  {
-    "website": "asiae.co.kr",
-    "url": "https://asiae.co.kr",
-    "rank": {
-      "tranco": 25590
     }
   },
   {
@@ -2171,34 +8588,6 @@
     }
   },
   {
-    "website": "mania.kr",
-    "url": "https://mania.kr",
-    "rank": {
-      "tranco": 28186
-    }
-  },
-  {
-    "website": "zigzag.kr",
-    "url": "https://zigzag.kr",
-    "rank": {
-      "tranco": 28391
-    }
-  },
-  {
-    "website": "mt.co.kr",
-    "url": "https://mt.co.kr",
-    "rank": {
-      "tranco": 28875
-    }
-  },
-  {
-    "website": "livescore.co.kr",
-    "url": "https://livescore.co.kr",
-    "rank": {
-      "tranco": 29082
-    }
-  },
-  {
     "website": "pe.kr",
     "url": "https://pe.kr",
     "rank": {
@@ -2206,38 +8595,10 @@
     }
   },
   {
-    "website": "soccerline.kr",
-    "url": "https://soccerline.kr",
-    "rank": {
-      "tranco": 30539
-    }
-  },
-  {
-    "website": "betman.co.kr",
-    "url": "https://betman.co.kr",
-    "rank": {
-      "tranco": 31428
-    }
-  },
-  {
     "website": "finder.co.kr",
     "url": "https://finder.co.kr",
     "rank": {
       "tranco": 32759
-    }
-  },
-  {
-    "website": "new.ondisk.co.kr",
-    "url": "https://new.ondisk.co.kr",
-    "rank": {
-      "tranco": 34067
-    }
-  },
-  {
-    "website": "qr.dhlottery.co.kr",
-    "url": "https://qr.dhlottery.co.kr",
-    "rank": {
-      "tranco": 34110
     }
   },
   {
@@ -2325,13 +8686,6 @@
     }
   },
   {
-    "website": "hometax.go.kr",
-    "url": "https://hometax.go.kr",
-    "rank": {
-      "tranco": 41956
-    }
-  },
-  {
     "website": "yonhapnews.co.kr",
     "url": "https://yonhapnews.co.kr",
     "rank": {
@@ -2350,13 +8704,6 @@
     "url": "https://blueweb.co.kr",
     "rank": {
       "tranco": 44212
-    }
-  },
-  {
-    "website": "zdnet.co.kr",
-    "url": "https://zdnet.co.kr",
-    "rank": {
-      "tranco": 44642
     }
   },
   {
@@ -2402,13 +8749,6 @@
     }
   },
   {
-    "website": "megafile.co.kr",
-    "url": "https://megafile.co.kr",
-    "rank": {
-      "tranco": 48101
-    }
-  },
-  {
     "website": "onestorecorp.kr",
     "url": "https://onestorecorp.kr",
     "rank": {
@@ -2427,13 +8767,6 @@
     "url": "https://postech.ac.kr",
     "rank": {
       "tranco": 48445
-    }
-  },
-  {
-    "website": "itssa.co.kr",
-    "url": "https://itssa.co.kr",
-    "rank": {
-      "tranco": 48761
     }
   },
   {
@@ -2514,13 +8847,6 @@
     }
   },
   {
-    "website": "m.oliveyoung.co.kr",
-    "url": "https://m.oliveyoung.co.kr",
-    "rank": {
-      "tranco": 55880
-    }
-  },
-  {
     "website": "eps.go.kr",
     "url": "https://eps.go.kr",
     "rank": {
@@ -2570,13 +8896,6 @@
     }
   },
   {
-    "website": "29cm.co.kr",
-    "url": "https://29cm.co.kr",
-    "rank": {
-      "tranco": 59872
-    }
-  },
-  {
     "website": "clickdomain.co.kr",
     "url": "https://clickdomain.co.kr",
     "rank": {
@@ -2609,13 +8928,6 @@
     "url": "https://nexoncdn.co.kr",
     "rank": {
       "tranco": 60723
-    }
-  },
-  {
-    "website": "kream.co.kr",
-    "url": "https://kream.co.kr",
-    "rank": {
-      "tranco": 61409
     }
   },
   {
@@ -2710,24 +9022,10 @@
     }
   },
   {
-    "website": "orbi.kr",
-    "url": "https://orbi.kr",
-    "rank": {
-      "tranco": 67089
-    }
-  },
-  {
     "website": "dgist.ac.kr",
     "url": "https://dgist.ac.kr",
     "rank": {
       "tranco": 67213
-    }
-  },
-  {
-    "website": "filmmakers.co.kr",
-    "url": "https://filmmakers.co.kr",
-    "rank": {
-      "tranco": 67225
     }
   },
   {
@@ -2787,13 +9085,6 @@
     }
   },
   {
-    "website": "todayhumor.co.kr",
-    "url": "https://todayhumor.co.kr",
-    "rank": {
-      "tranco": 71688
-    }
-  },
-  {
     "website": "hanwha.co.kr",
     "url": "https://hanwha.co.kr",
     "rank": {
@@ -2801,24 +9092,10 @@
     }
   },
   {
-    "website": "ticketlink.co.kr",
-    "url": "https://ticketlink.co.kr",
-    "rank": {
-      "tranco": 72260
-    }
-  },
-  {
     "website": "viaweb.co.kr",
     "url": "https://viaweb.co.kr",
     "rank": {
       "tranco": 73248
-    }
-  },
-  {
-    "website": "dart.fss.or.kr",
-    "url": "https://dart.fss.or.kr",
-    "rank": {
-      "tranco": 73315
     }
   },
   {
@@ -2833,20 +9110,6 @@
     "url": "https://genie.co.kr",
     "rank": {
       "tranco": 73424
-    }
-  },
-  {
-    "website": "etoland.co.kr",
-    "url": "https://etoland.co.kr",
-    "rank": {
-      "tranco": 73548
-    }
-  },
-  {
-    "website": "alba.co.kr",
-    "url": "https://alba.co.kr",
-    "rank": {
-      "tranco": 73808
     }
   },
   {
@@ -2868,20 +9131,6 @@
     "url": "https://uplus.co.kr",
     "rank": {
       "tranco": 76412
-    }
-  },
-  {
-    "website": "cgv.co.kr",
-    "url": "https://cgv.co.kr",
-    "rank": {
-      "tranco": 76772
-    }
-  },
-  {
-    "website": "newdaily.co.kr",
-    "url": "https://newdaily.co.kr",
-    "rank": {
-      "tranco": 77225
     }
   },
   {
@@ -2917,13 +9166,6 @@
     "url": "https://kimc.co.kr",
     "rank": {
       "tranco": 78841
-    }
-  },
-  {
-    "website": "eomisae.co.kr",
-    "url": "https://eomisae.co.kr",
-    "rank": {
-      "tranco": 79499
     }
   },
   {
@@ -2983,13 +9225,6 @@
     }
   },
   {
-    "website": "harpersbazaar.co.kr",
-    "url": "https://harpersbazaar.co.kr",
-    "rank": {
-      "tranco": 82434
-    }
-  },
-  {
     "website": "asiatoday.co.kr",
     "url": "https://asiatoday.co.kr",
     "rank": {
@@ -3015,13 +9250,6 @@
     "url": "https://krx.co.kr",
     "rank": {
       "tranco": 83450
-    }
-  },
-  {
-    "website": "vogue.co.kr",
-    "url": "https://vogue.co.kr",
-    "rank": {
-      "tranco": 83696
     }
   },
   {
@@ -3081,13 +9309,6 @@
     }
   },
   {
-    "website": "boardlife.co.kr",
-    "url": "https://boardlife.co.kr",
-    "rank": {
-      "tranco": 88424
-    }
-  },
-  {
     "website": "imagingcenter.kr",
     "url": "https://imagingcenter.kr",
     "rank": {
@@ -3102,24 +9323,10 @@
     }
   },
   {
-    "website": "jjtv.kr",
-    "url": "https://jjtv.kr",
-    "rank": {
-      "tranco": 90130
-    }
-  },
-  {
     "website": "lg.co.kr",
     "url": "https://lg.co.kr",
     "rank": {
       "tranco": 90504
-    }
-  },
-  {
-    "website": "everytime.kr",
-    "url": "https://everytime.kr",
-    "rank": {
-      "tranco": 90909
     }
   },
   {
@@ -3134,13 +9341,6 @@
     "url": "https://wowtv.co.kr",
     "rank": {
       "tranco": 91196
-    }
-  },
-  {
-    "website": "kdisk.co.kr",
-    "url": "https://kdisk.co.kr",
-    "rank": {
-      "tranco": 91322
     }
   },
   {
@@ -3193,13 +9393,6 @@
     }
   },
   {
-    "website": "plus.gov.kr",
-    "url": "https://plus.gov.kr",
-    "rank": {
-      "tranco": 92831
-    }
-  },
-  {
     "website": "sch.ac.kr",
     "url": "https://sch.ac.kr",
     "rank": {
@@ -3214,38 +9407,10 @@
     }
   },
   {
-    "website": "bntnews.co.kr",
-    "url": "https://bntnews.co.kr",
-    "rank": {
-      "tranco": 94911
-    }
-  },
-  {
-    "website": "compuzone.co.kr",
-    "url": "https://compuzone.co.kr",
-    "rank": {
-      "tranco": 94934
-    }
-  },
-  {
-    "website": "lottecinema.co.kr",
-    "url": "https://lottecinema.co.kr",
-    "rank": {
-      "tranco": 95780
-    }
-  },
-  {
     "website": "dimode.co.kr",
     "url": "https://dimode.co.kr",
     "rank": {
       "tranco": 95864
-    }
-  },
-  {
-    "website": "elle.co.kr",
-    "url": "https://elle.co.kr",
-    "rank": {
-      "tranco": 96360
     }
   },
   {
@@ -3267,27 +9432,6 @@
     "url": "https://seoul.go.kr",
     "rank": {
       "tranco": 97893
-    }
-  },
-  {
-    "website": "hipass.co.kr",
-    "url": "https://hipass.co.kr",
-    "rank": {
-      "tranco": 97915
-    }
-  },
-  {
-    "website": "gqkorea.co.kr",
-    "url": "https://gqkorea.co.kr",
-    "rank": {
-      "tranco": 99674
-    }
-  },
-  {
-    "website": "ebsi.co.kr",
-    "url": "https://ebsi.co.kr",
-    "rank": {
-      "tranco": 100348
     }
   },
   {
@@ -3333,24 +9477,10 @@
     }
   },
   {
-    "website": "nhis.or.kr",
-    "url": "https://nhis.or.kr",
-    "rank": {
-      "tranco": 102602
-    }
-  },
-  {
     "website": "bananamall.co.kr",
     "url": "https://bananamall.co.kr",
     "rank": {
       "tranco": 103548
-    }
-  },
-  {
-    "website": "muko.kr",
-    "url": "https://muko.kr",
-    "rank": {
-      "tranco": 103759
     }
   },
   {
@@ -3375,20 +9505,6 @@
     }
   },
   {
-    "website": "law.go.kr",
-    "url": "https://law.go.kr",
-    "rank": {
-      "tranco": 105007
-    }
-  },
-  {
-    "website": "music.bugs.co.kr",
-    "url": "https://music.bugs.co.kr",
-    "rank": {
-      "tranco": 105043
-    }
-  },
-  {
     "website": "freelancer.co.kr",
     "url": "https://freelancer.co.kr",
     "rank": {
@@ -3400,13 +9516,6 @@
     "url": "https://srail.kr",
     "rank": {
       "tranco": 105359
-    }
-  },
-  {
-    "website": "smartfile.co.kr",
-    "url": "https://smartfile.co.kr",
-    "rank": {
-      "tranco": 105493
     }
   },
   {
@@ -3424,13 +9533,6 @@
     }
   },
   {
-    "website": "esquirekorea.co.kr",
-    "url": "https://esquirekorea.co.kr",
-    "rank": {
-      "tranco": 105954
-    }
-  },
-  {
     "website": "jbedu.kr",
     "url": "https://jbedu.kr",
     "rank": {
@@ -3442,27 +9544,6 @@
     "url": "https://costco.co.kr",
     "rank": {
       "tranco": 106490
-    }
-  },
-  {
-    "website": "mydaily.co.kr",
-    "url": "https://mydaily.co.kr",
-    "rank": {
-      "tranco": 106704
-    }
-  },
-  {
-    "website": "mule.co.kr",
-    "url": "https://mule.co.kr",
-    "rank": {
-      "tranco": 106922
-    }
-  },
-  {
-    "website": "gseek.kr",
-    "url": "https://gseek.kr",
-    "rank": {
-      "tranco": 107099
     }
   },
   {
@@ -3494,55 +9575,6 @@
     }
   },
   {
-    "website": "piku.co.kr",
-    "url": "https://piku.co.kr",
-    "rank": {
-      "tranco": 108963
-    }
-  },
-  {
-    "website": "auction1.co.kr",
-    "url": "https://auction1.co.kr",
-    "rank": {
-      "tranco": 109276
-    }
-  },
-  {
-    "website": "adiga.kr",
-    "url": "https://adiga.kr",
-    "rank": {
-      "tranco": 109411
-    }
-  },
-  {
-    "website": "bydauto.kr",
-    "url": "https://bydauto.kr",
-    "rank": {
-      "tranco": 111190
-    }
-  },
-  {
-    "website": "red52.kr",
-    "url": "https://red52.kr",
-    "rank": {
-      "tranco": 111500
-    }
-  },
-  {
-    "website": "bnkrmall.co.kr",
-    "url": "https://bnkrmall.co.kr",
-    "rank": {
-      "tranco": 111910
-    }
-  },
-  {
-    "website": "gersang.co.kr",
-    "url": "https://gersang.co.kr",
-    "rank": {
-      "tranco": 112268
-    }
-  },
-  {
     "website": "cnu.ac.kr",
     "url": "https://cnu.ac.kr",
     "rank": {
@@ -3554,13 +9586,6 @@
     "url": "https://mjbiz.co.kr",
     "rank": {
       "tranco": 113293
-    }
-  },
-  {
-    "website": "i-scream.co.kr",
-    "url": "https://i-scream.co.kr",
-    "rank": {
-      "tranco": 113359
     }
   },
   {
@@ -3599,24 +9624,10 @@
     }
   },
   {
-    "website": "m.saramin.co.kr",
-    "url": "https://m.saramin.co.kr",
-    "rank": {
-      "tranco": 115451
-    }
-  },
-  {
     "website": "adidas.co.kr",
     "url": "https://adidas.co.kr",
     "rank": {
       "tranco": 116793
-    }
-  },
-  {
-    "website": "wedisk.co.kr",
-    "url": "https://wedisk.co.kr",
-    "rank": {
-      "tranco": 116800
     }
   },
   {
@@ -3627,66 +9638,10 @@
     }
   },
   {
-    "website": "m.gmarket.co.kr",
-    "url": "https://m.gmarket.co.kr",
-    "rank": {
-      "tranco": 118842
-    }
-  },
-  {
-    "website": "g-disk.co.kr",
-    "url": "https://g-disk.co.kr",
-    "rank": {
-      "tranco": 119753
-    }
-  },
-  {
-    "website": "idfarm.co.kr",
-    "url": "https://idfarm.co.kr",
-    "rank": {
-      "tranco": 119801
-    }
-  },
-  {
-    "website": "bigfile.co.kr",
-    "url": "https://bigfile.co.kr",
-    "rank": {
-      "tranco": 120444
-    }
-  },
-  {
-    "website": "scholar.google.co.kr",
-    "url": "https://scholar.google.co.kr",
-    "rank": {
-      "tranco": 121380
-    }
-  },
-  {
-    "website": "news.kbs.co.kr",
-    "url": "https://news.kbs.co.kr",
-    "rank": {
-      "tranco": 122007
-    }
-  },
-  {
     "website": "nayaa.co.kr",
     "url": "https://nayaa.co.kr",
     "rank": {
       "tranco": 122395
-    }
-  },
-  {
-    "website": "nice.checkplus.co.kr",
-    "url": "https://nice.checkplus.co.kr",
-    "rank": {
-      "tranco": 122712
-    }
-  },
-  {
-    "website": "unipass.customs.go.kr",
-    "url": "https://unipass.customs.go.kr",
-    "rank": {
-      "tranco": 122983
     }
   },
   {
@@ -3697,24 +9652,10 @@
     }
   },
   {
-    "website": "m.hanacard.co.kr",
-    "url": "https://m.hanacard.co.kr",
-    "rank": {
-      "tranco": 123628
-    }
-  },
-  {
     "website": "littlefox.co.kr",
     "url": "https://littlefox.co.kr",
     "rank": {
       "tranco": 123723
-    }
-  },
-  {
-    "website": "clipartkorea.co.kr",
-    "url": "https://clipartkorea.co.kr",
-    "rank": {
-      "tranco": 124210
     }
   },
   {
@@ -3732,59 +9673,10 @@
     }
   },
   {
-    "website": "sports.khan.co.kr",
-    "url": "https://sports.khan.co.kr",
-    "rank": {
-      "tranco": 125925
-    }
-  },
-  {
     "website": "korean.go.kr",
     "url": "https://korean.go.kr",
     "rank": {
       "tranco": 126016
-    }
-  },
-  {
-    "website": "product.kyobobook.co.kr",
-    "url": "https://product.kyobobook.co.kr",
-    "rank": {
-      "tranco": 126116
-    }
-  },
-  {
-    "website": "news.jtbc.co.kr",
-    "url": "https://news.jtbc.co.kr",
-    "rank": {
-      "tranco": 126455
-    }
-  },
-  {
-    "website": "m.todayhumor.co.kr",
-    "url": "https://m.todayhumor.co.kr",
-    "rank": {
-      "tranco": 126479
-    }
-  },
-  {
-    "website": "m.andar.co.kr",
-    "url": "https://m.andar.co.kr",
-    "rank": {
-      "tranco": 126509
-    }
-  },
-  {
-    "website": "m.bunjang.co.kr",
-    "url": "https://m.bunjang.co.kr",
-    "rank": {
-      "tranco": 126618
-    }
-  },
-  {
-    "website": "m.fomos.kr",
-    "url": "https://m.fomos.kr",
-    "rank": {
-      "tranco": 126627
     }
   },
   {
@@ -3795,122 +9687,10 @@
     }
   },
   {
-    "website": "safe.ok-name.co.kr",
-    "url": "https://safe.ok-name.co.kr",
-    "rank": {
-      "tranco": 126742
-    }
-  },
-  {
-    "website": "api.mjbiz.co.kr",
-    "url": "https://api.mjbiz.co.kr",
-    "rank": {
-      "tranco": 127069
-    }
-  },
-  {
     "website": "idpaper.co.kr",
     "url": "https://idpaper.co.kr",
     "rank": {
       "tranco": 127094
-    }
-  },
-  {
-    "website": "m.ytn.co.kr",
-    "url": "https://m.ytn.co.kr",
-    "rank": {
-      "tranco": 128219
-    }
-  },
-  {
-    "website": "mid.ebs.co.kr",
-    "url": "https://mid.ebs.co.kr",
-    "rank": {
-      "tranco": 128230
-    }
-  },
-  {
-    "website": "news.einfomax.co.kr",
-    "url": "https://news.einfomax.co.kr",
-    "rank": {
-      "tranco": 128571
-    }
-  },
-  {
-    "website": "m.jobkorea.co.kr",
-    "url": "https://m.jobkorea.co.kr",
-    "rank": {
-      "tranco": 128831
-    }
-  },
-  {
-    "website": "auth.skt-id.co.kr",
-    "url": "https://auth.skt-id.co.kr",
-    "rank": {
-      "tranco": 128912
-    }
-  },
-  {
-    "website": "m.nownews.seoul.co.kr",
-    "url": "https://m.nownews.seoul.co.kr",
-    "rank": {
-      "tranco": 129178
-    }
-  },
-  {
-    "website": "11stapp.11st.co.kr",
-    "url": "https://11stapp.11st.co.kr",
-    "rank": {
-      "tranco": 129558
-    }
-  },
-  {
-    "website": "4insure.or.kr",
-    "url": "https://4insure.or.kr",
-    "rank": {
-      "tranco": 129614
-    }
-  },
-  {
-    "website": "api.cpq.co.kr",
-    "url": "https://api.cpq.co.kr",
-    "rank": {
-      "tranco": 130009
-    }
-  },
-  {
-    "website": "apply.lh.or.kr",
-    "url": "https://apply.lh.or.kr",
-    "rank": {
-      "tranco": 130202
-    }
-  },
-  {
-    "website": "artmug.kr",
-    "url": "https://artmug.kr",
-    "rank": {
-      "tranco": 130283
-    }
-  },
-  {
-    "website": "avsubs.co.kr",
-    "url": "https://avsubs.co.kr",
-    "rank": {
-      "tranco": 130403
-    }
-  },
-  {
-    "website": "buzzvil.mocation.co.kr",
-    "url": "https://buzzvil.mocation.co.kr",
-    "rank": {
-      "tranco": 130738
-    }
-  },
-  {
-    "website": "byv.co.kr",
-    "url": "https://byv.co.kr",
-    "rank": {
-      "tranco": 130747
     }
   },
   {
@@ -3928,108 +9708,10 @@
     }
   },
   {
-    "website": "dbdbschool.kr",
-    "url": "https://dbdbschool.kr",
-    "rank": {
-      "tranco": 131315
-    }
-  },
-  {
-    "website": "doctorville.co.kr",
-    "url": "https://doctorville.co.kr",
-    "rank": {
-      "tranco": 131501
-    }
-  },
-  {
-    "website": "dotal.or.kr",
-    "url": "https://dotal.or.kr",
-    "rank": {
-      "tranco": 131518
-    }
-  },
-  {
-    "website": "edu.kohi.or.kr",
-    "url": "https://edu.kohi.or.kr",
-    "rank": {
-      "tranco": 131684
-    }
-  },
-  {
-    "website": "el.dhlottery.co.kr",
-    "url": "https://el.dhlottery.co.kr",
-    "rank": {
-      "tranco": 131746
-    }
-  },
-  {
-    "website": "etk.srail.kr",
-    "url": "https://etk.srail.kr",
-    "rank": {
-      "tranco": 132058
-    }
-  },
-  {
-    "website": "foresttrip.go.kr",
-    "url": "https://foresttrip.go.kr",
-    "rank": {
-      "tranco": 132261
-    }
-  },
-  {
     "website": "gosims.go.kr",
     "url": "https://gosims.go.kr",
     "rank": {
       "tranco": 132533
-    }
-  },
-  {
-    "website": "gvs.gosims.go.kr",
-    "url": "https://gvs.gosims.go.kr",
-    "rank": {
-      "tranco": 132595
-    }
-  },
-  {
-    "website": "hana.svote.kr",
-    "url": "https://hana.svote.kr",
-    "rank": {
-      "tranco": 132621
-    }
-  },
-  {
-    "website": "hangloo.co.kr",
-    "url": "https://hangloo.co.kr",
-    "rank": {
-      "tranco": 132623
-    }
-  },
-  {
-    "website": "hi.goe.go.kr",
-    "url": "https://hi.goe.go.kr",
-    "rank": {
-      "tranco": 132673
-    }
-  },
-  {
-    "website": "hiring.saramin.co.kr",
-    "url": "https://hiring.saramin.co.kr",
-    "rank": {
-      "tranco": 132703
-    }
-  },
-  {
-    "website": "kissinfo.co.kr",
-    "url": "https://kissinfo.co.kr",
-    "rank": {
-      "tranco": 133343
-    }
-  },
-  {
-    "website": "lcms.or.kr",
-    "url": "https://lcms.or.kr",
-    "rank": {
-      "tranco": 133454
     }
   },
   {
@@ -4040,101 +9722,10 @@
     }
   },
   {
-    "website": "m.bananamall.co.kr",
-    "url": "https://m.bananamall.co.kr",
-    "rank": {
-      "tranco": 133750
-    }
-  },
-  {
-    "website": "m.betman.co.kr",
-    "url": "https://m.betman.co.kr",
-    "rank": {
-      "tranco": 133766
-    }
-  },
-  {
-    "website": "m.bnkrmall.co.kr",
-    "url": "https://m.bnkrmall.co.kr",
-    "rank": {
-      "tranco": 133770
-    }
-  },
-  {
-    "website": "m.g-disk.co.kr",
-    "url": "https://m.g-disk.co.kr",
-    "rank": {
-      "tranco": 133821
-    }
-  },
-  {
-    "website": "m.idpaper.co.kr",
-    "url": "https://m.idpaper.co.kr",
-    "rank": {
-      "tranco": 133845
-    }
-  },
-  {
-    "website": "m.kra.co.kr",
-    "url": "https://m.kra.co.kr",
-    "rank": {
-      "tranco": 133870
-    }
-  },
-  {
-    "website": "m.megafile.co.kr",
-    "url": "https://m.megafile.co.kr",
-    "rank": {
-      "tranco": 133881
-    }
-  },
-  {
-    "website": "m.mootoon.co.kr",
-    "url": "https://m.mootoon.co.kr",
-    "rank": {
-      "tranco": 133888
-    }
-  },
-  {
     "website": "m.ticketlink.co.kr",
     "url": "https://m.ticketlink.co.kr",
     "rank": {
       "tranco": 133951
-    }
-  },
-  {
-    "website": "m.wedisk.co.kr",
-    "url": "https://m.wedisk.co.kr",
-    "rank": {
-      "tranco": 133976
-    }
-  },
-  {
-    "website": "m.wikitree.co.kr",
-    "url": "https://m.wikitree.co.kr",
-    "rank": {
-      "tranco": 133978
-    }
-  },
-  {
-    "website": "m.work24.go.kr",
-    "url": "https://m.work24.go.kr",
-    "rank": {
-      "tranco": 133980
-    }
-  },
-  {
-    "website": "m.yonhapnewstv.co.kr",
-    "url": "https://m.yonhapnewstv.co.kr",
-    "rank": {
-      "tranco": 133988
-    }
-  },
-  {
-    "website": "mnews.sbs.co.kr",
-    "url": "https://mnews.sbs.co.kr",
-    "rank": {
-      "tranco": 134309
     }
   },
   {
@@ -4145,97 +9736,6 @@
     }
   },
   {
-    "website": "my.gmarket.co.kr",
-    "url": "https://my.gmarket.co.kr",
-    "rank": {
-      "tranco": 134484
-    }
-  },
-  {
-    "website": "news.hidoc.co.kr",
-    "url": "https://news.hidoc.co.kr",
-    "rank": {
-      "tranco": 134674
-    }
-  },
-  {
-    "website": "nutrione.co.kr",
-    "url": "https://nutrione.co.kr",
-    "rank": {
-      "tranco": 134772
-    }
-  },
-  {
-    "website": "partner.couponwallet.co.kr",
-    "url": "https://partner.couponwallet.co.kr",
-    "rank": {
-      "tranco": 135033
-    }
-  },
-  {
-    "website": "q-net.or.kr",
-    "url": "https://q-net.or.kr",
-    "rank": {
-      "tranco": 135564
-    }
-  },
-  {
-    "website": "race.kra.co.kr",
-    "url": "https://race.kra.co.kr",
-    "rank": {
-      "tranco": 135611
-    }
-  },
-  {
-    "website": "school.littlefox.co.kr",
-    "url": "https://school.littlefox.co.kr",
-    "rank": {
-      "tranco": 136037
-    }
-  },
-  {
-    "website": "service.epost.go.kr",
-    "url": "https://service.epost.go.kr",
-    "rank": {
-      "tranco": 136181
-    }
-  },
-  {
-    "website": "si4n.nhis.or.kr",
-    "url": "https://si4n.nhis.or.kr",
-    "rank": {
-      "tranco": 136308
-    }
-  },
-  {
-    "website": "soffice.11st.co.kr",
-    "url": "https://soffice.11st.co.kr",
-    "rank": {
-      "tranco": 136552
-    }
-  },
-  {
-    "website": "sp.hi.co.kr",
-    "url": "https://sp.hi.co.kr",
-    "rank": {
-      "tranco": 136589
-    }
-  },
-  {
-    "website": "ssgo.scourt.go.kr",
-    "url": "https://ssgo.scourt.go.kr",
-    "rank": {
-      "tranco": 136670
-    }
-  },
-  {
-    "website": "store.nintendo.co.kr",
-    "url": "https://store.nintendo.co.kr",
-    "rank": {
-      "tranco": 136735
-    }
-  },
-  {
     "website": "svote.kr",
     "url": "https://svote.kr",
     "rank": {
@@ -4243,24 +9743,10 @@
     }
   },
   {
-    "website": "swadpia.co.kr",
-    "url": "https://swadpia.co.kr",
-    "rank": {
-      "tranco": 136859
-    }
-  },
-  {
     "website": "talkstation.co.kr",
     "url": "https://talkstation.co.kr",
     "rank": {
       "tranco": 136912
-    }
-  },
-  {
-    "website": "xn--2z1bw8k1pjz5ccumkb.kr",
-    "url": "https://www.xn--2z1bw8k1pjz5ccumkb.kr",
-    "rank": {
-      "tranco": 142082
     }
   },
   {
@@ -4495,13 +9981,6 @@
     }
   },
   {
-    "website": "i-sh.co.kr",
-    "url": "https://i-sh.co.kr",
-    "rank": {
-      "tranco": 156908
-    }
-  },
-  {
     "website": "pandalive.co.kr",
     "url": "https://pandalive.co.kr",
     "rank": {
@@ -4513,13 +9992,6 @@
     "url": "https://millie.co.kr",
     "rank": {
       "tranco": 157680
-    }
-  },
-  {
-    "website": "tvreport.co.kr",
-    "url": "https://tvreport.co.kr",
-    "rank": {
-      "tranco": 157773
     }
   },
   {
@@ -4604,13 +10076,6 @@
     "url": "https://searchalgorithm.co.kr",
     "rank": {
       "tranco": 162680
-    }
-  },
-  {
-    "website": "ff14.co.kr",
-    "url": "https://ff14.co.kr",
-    "rank": {
-      "tranco": 162783
     }
   },
   {
@@ -5048,13 +10513,6 @@
     }
   },
   {
-    "website": "autotribune.co.kr",
-    "url": "https://autotribune.co.kr",
-    "rank": {
-      "tranco": 180903
-    }
-  },
-  {
     "website": "smlog.co.kr",
     "url": "https://smlog.co.kr",
     "rank": {
@@ -5447,13 +10905,6 @@
     }
   },
   {
-    "website": "m.seoul.co.kr",
-    "url": "https://m.seoul.co.kr",
-    "rank": {
-      "tranco": 207313
-    }
-  },
-  {
     "website": "spotvnews.co.kr",
     "url": "https://spotvnews.co.kr",
     "rank": {
@@ -5465,76 +10916,6 @@
     "url": "https://dailyplaza.co.kr",
     "rank": {
       "tranco": 207763
-    }
-  },
-  {
-    "website": "commerccc.co.kr",
-    "url": "https://commerccc.co.kr",
-    "rank": {
-      "tranco": 208551
-    }
-  },
-  {
-    "website": "fifaonline4.inven.co.kr",
-    "url": "https://fifaonline4.inven.co.kr",
-    "rank": {
-      "tranco": 208736
-    }
-  },
-  {
-    "website": "gold-rain.co.kr",
-    "url": "https://gold-rain.co.kr",
-    "rank": {
-      "tranco": 208800
-    }
-  },
-  {
-    "website": "m.adiga.kr",
-    "url": "https://m.adiga.kr",
-    "rank": {
-      "tranco": 208989
-    }
-  },
-  {
-    "website": "m.directdb.co.kr",
-    "url": "https://m.directdb.co.kr",
-    "rank": {
-      "tranco": 208995
-    }
-  },
-  {
-    "website": "m.lina.co.kr",
-    "url": "https://m.lina.co.kr",
-    "rank": {
-      "tranco": 209006
-    }
-  },
-  {
-    "website": "portal.hanyang.ac.kr",
-    "url": "https://portal.hanyang.ac.kr",
-    "rank": {
-      "tranco": 209262
-    }
-  },
-  {
-    "website": "portal.kosaf.go.kr",
-    "url": "https://portal.kosaf.go.kr",
-    "rank": {
-      "tranco": 209264
-    }
-  },
-  {
-    "website": "safedriving.or.kr",
-    "url": "https://safedriving.or.kr",
-    "rank": {
-      "tranco": 209365
-    }
-  },
-  {
-    "website": "socinet.go.kr",
-    "url": "https://socinet.go.kr",
-    "rank": {
-      "tranco": 209495
     }
   },
   {
@@ -7103,27 +12484,6 @@
     "url": "https://epstopik.hrdkorea.or.kr",
     "rank": {
       "tranco": 281158
-    }
-  },
-  {
-    "website": "m.bravo.etoday.co.kr",
-    "url": "https://m.bravo.etoday.co.kr",
-    "rank": {
-      "tranco": 281337
-    }
-  },
-  {
-    "website": "sugang.snu.ac.kr",
-    "url": "https://sugang.snu.ac.kr",
-    "rank": {
-      "tranco": 281572
-    }
-  },
-  {
-    "website": "webinfo.dankook.ac.kr",
-    "url": "https://webinfo.dankook.ac.kr",
-    "rank": {
-      "tranco": 281663
     }
   },
   {
@@ -9063,13 +14423,6 @@
     "url": "https://meeco.kr",
     "rank": {
       "tranco": 345722
-    }
-  },
-  {
-    "website": "sugang.hongik.ac.kr",
-    "url": "https://sugang.hongik.ac.kr",
-    "rank": {
-      "tranco": 346769
     }
   },
   {

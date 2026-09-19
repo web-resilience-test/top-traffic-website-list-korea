@@ -9,6 +9,7 @@ A toolkit for fetching South Korea website traffic rankings from multiple source
 - [AhrefsTop](https://ahrefstop.com/websites/korea) — Korea organic search traffic top 100
 - [SimilarWeb](https://www.similarweb.com/top-websites/korea-republic-of/) — South Korea website traffic top 50
 - [Semrush](https://www.semrush.com/trending-websites/kr/all) — South Korea website traffic top 100
+- [Google CrUX](https://developer.chrome.com/docs/crux) — 1,000 popular website origins visited by eligible Chrome users in South Korea
 
 ## 📊 Data sources
 
@@ -45,10 +46,89 @@ Citation: Victor Le Pochat, Tom Van Goethem, Samaneh Tajalizadehkhoob, Maciej Ko
 
 ```bash
 npm install
-npm run <tranco|cloudflare|ahrefs|similarweb|semrush|merge>
+npm run <tranco|cloudflare|ahrefs|similarweb|semrush|crux|merge>
 ```
 
+### Chrome UX Report
+
+The CrUX fetcher uses the official `@google-cloud/bigquery` Node.js package to
+query the public `chrome-ux-report.country_kr` dataset. The package is
+installed by `npm install`.
+
+#### No-cost setup with BigQuery Sandbox
+
+For a no-cost setup, use [BigQuery Sandbox](https://cloud.google.com/bigquery/docs/sandbox).
+Sandbox can query public datasets without adding a billing account or credit
+card. BigQuery's on-demand analysis also has a free allowance of 1 TiB per
+month; see the current [BigQuery pricing](https://cloud.google.com/bigquery/pricing).
+
+The first authentication and Sandbox setup are interactive. After that,
+fetching and writing the JSON can be automated by this repository.
+
+To enable BigQuery Sandbox:
+
+1. Open the [BigQuery page in Google Cloud Console](https://console.cloud.google.com/bigquery).
+2. Sign in with a Google Account, or create one if needed.
+3. On the welcome page, select your country, review and accept the Terms of
+   Service, and click **Agree and continue**. Email updates are optional.
+4. Click **Create project**.
+5. Enter a project name. For **Organization**, select your organization or
+   **No organization** if the account is not managed by one. If Google asks
+   for a location, click **Browse** and select one.
+6. Click **Create**. Google returns you to the BigQuery page.
+7. Confirm that the BigQuery page displays the Sandbox notice. Billing should
+   remain disabled for this project.
+8. Open the project selector in the top navigation, select the new project,
+   and copy its project ID. The project ID can differ from the display name.
+
+Then run the following commands from this repository, replacing the example
+project ID with the copied value:
+
+```bash
+export GCLOUD_PROJECT="your-gcp-project-id"
+npm install
+npm run crux -- --project "$GCLOUD_PROJECT"
+```
+
+On success, the fetcher creates `crux_top_kr.json`. Verify that the output is
+valid and non-empty:
+
+```bash
+node -e "const d=require('./crux_top_kr.json'); if (!Array.isArray(d) || d.length === 0) process.exit(1); console.log({count:d.length, first:d.slice(0,5), last:d.at(-1)})"
+```
+
+The script automatically selects the newest `YYYYMM` table and writes
+`crux_top_kr.json`. Use `--month YYYYMM` to reproduce an earlier snapshot:
+
+```bash
+npm run crux -- --project your-gcp-project-id --month 202608
+```
+
+The query and JSON write are automated, but the initial Google login, project
+selection, and Sandbox consent remain manual account actions.
+
+CrUX exposes popularity buckets rather than exact ranks, so the output field
+is named `rank_bucket` and must not be interpreted as a precise position.
+
 ## 📁 Output files
+
+### Chrome UX Report
+
+Produces `crux_top_kr.json` in a format compatible with the other source
+lists:
+
+```json
+[
+  {
+    "website": "example.com",
+    "url": "https://example.com"
+  }
+]
+```
+
+The source file only records membership in the South Korea CrUX top-1,000
+bucket. During merge, these entries receive `rank.crux: 1000` for compatibility
+with the existing merged-list schema; this remains a bucket, not an exact rank.
 
 ### Tranco List
 Produces `tranco_list_kr.json`:
@@ -130,7 +210,8 @@ Produces `semrush_top_kr.json`:
 ```
 
 ### Merge
-Merges all lists into `merged_lists_kr.json`.
+Merges all six source lists into `merged_lists_kr.json`. CrUX is counted as a
+source match, but its popularity bucket is excluded from exact-rank averaging.
 
 ## 📜 License
 

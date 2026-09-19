@@ -1,10 +1,10 @@
 /**
- * Merge five JSON source files into one unified list
+ * Merge six JSON source files into one unified list
  *
  * Usage:
  *   node merge-lists.js
  *
- * Reads rank data from five JSON files and writes merged_lists_kr.json.
+ * Reads rank data from six JSON files and writes merged_lists_kr.json.
  */
 
 const fs = require('fs');
@@ -30,6 +30,13 @@ const FILES = [
     path: 'semrush_top_kr.json',
     listName: 'semrush',
     domainField: 'domain_name'
+  },
+  {
+    path: 'crux_top_kr.json',
+    listName: 'crux',
+    domainField: 'website',
+    urlField: 'url',
+    rankValue: 1000
   },
   {
     path: 'tranco_list_kr.json',
@@ -118,19 +125,22 @@ function mergeLists() {
 
     for (const item of data) {
       const domain = item[fileConfig.domainField];
-      if (!domain) continue;
+      const rank = fileConfig.rankValue ?? item.rank;
+      if (!domain || !Number.isFinite(rank)) continue;
 
       const normalizedWebsite = normalizeWebsite(domain);
+      const url = fileConfig.urlField ? item[fileConfig.urlField] || null : null;
 
       if (websitesMap.has(normalizedWebsite)) {
         const existing = websitesMap.get(normalizedWebsite);
-        existing.rank[fileConfig.listName] = item.rank;
+        existing.rank[fileConfig.listName] = rank;
+        if (!existing.url && url) existing.url = url;
       } else {
         websitesMap.set(normalizedWebsite, {
           website: normalizedWebsite,
-          url: null,
+          url,
           rank: {
-            [fileConfig.listName]: item.rank
+            [fileConfig.listName]: rank
           }
         });
       }
@@ -142,49 +152,52 @@ function mergeLists() {
   const result = Array.from(websitesMap.values());
 
   result.sort((a, b) => {
-    const getTaiwanRanks = (item) => {
-      const taiwanRanks = [];
-      if (item.rank.cloudflare !== undefined) taiwanRanks.push(item.rank.cloudflare);
-      if (item.rank.similarweb !== undefined) taiwanRanks.push(item.rank.similarweb);
-      if (item.rank.ahrefs !== undefined) taiwanRanks.push(item.rank.ahrefs);
-      if (item.rank.semrush !== undefined) taiwanRanks.push(item.rank.semrush);
-      return taiwanRanks;
+    const getKoreaRankStats = (item) => {
+      const exactRanks = [];
+      if (item.rank.cloudflare !== undefined) exactRanks.push(item.rank.cloudflare);
+      if (item.rank.similarweb !== undefined) exactRanks.push(item.rank.similarweb);
+      if (item.rank.ahrefs !== undefined) exactRanks.push(item.rank.ahrefs);
+      if (item.rank.semrush !== undefined) exactRanks.push(item.rank.semrush);
+
+      return {
+        exactRanks,
+        sourceCount: exactRanks.length + (item.rank.crux !== undefined ? 1 : 0)
+      };
     };
 
-    const aTaiwanRanks = getTaiwanRanks(a);
-    const bTaiwanRanks = getTaiwanRanks(b);
+    const aKorea = getKoreaRankStats(a);
+    const bKorea = getKoreaRankStats(b);
 
-    if (aTaiwanRanks.length > 0 && bTaiwanRanks.length === 0) {
+    if (aKorea.sourceCount > 0 && bKorea.sourceCount === 0) {
       return -1;
     }
-    if (aTaiwanRanks.length === 0 && bTaiwanRanks.length > 0) {
+    if (aKorea.sourceCount === 0 && bKorea.sourceCount > 0) {
       return 1;
     }
 
-    if (aTaiwanRanks.length > 0 && bTaiwanRanks.length > 0) {
-      if (aTaiwanRanks.length !== bTaiwanRanks.length) {
-        return bTaiwanRanks.length - aTaiwanRanks.length;
+    if (aKorea.sourceCount > 0 && bKorea.sourceCount > 0) {
+      if (aKorea.sourceCount !== bKorea.sourceCount) {
+        return bKorea.sourceCount - aKorea.sourceCount;
       }
 
-      const aAvg = aTaiwanRanks.reduce((sum, r) => sum + r, 0) / aTaiwanRanks.length;
-      const bAvg = bTaiwanRanks.reduce((sum, r) => sum + r, 0) / bTaiwanRanks.length;
-      if (aAvg !== bAvg) {
-        return aAvg - bAvg;
-      }
+      if (aKorea.exactRanks.length > 0 && bKorea.exactRanks.length === 0) return -1;
+      if (aKorea.exactRanks.length === 0 && bKorea.exactRanks.length > 0) return 1;
 
-      const aMin = Math.min(...aTaiwanRanks);
-      const bMin = Math.min(...bTaiwanRanks);
-      if (aMin !== bMin) {
-        return aMin - bMin;
+      if (aKorea.exactRanks.length > 0 && bKorea.exactRanks.length > 0) {
+        const aAvg = aKorea.exactRanks.reduce((sum, r) => sum + r, 0) / aKorea.exactRanks.length;
+        const bAvg = bKorea.exactRanks.reduce((sum, r) => sum + r, 0) / bKorea.exactRanks.length;
+        if (aAvg !== bAvg) return aAvg - bAvg;
+
+        const aMin = Math.min(...aKorea.exactRanks);
+        const bMin = Math.min(...bKorea.exactRanks);
+        if (aMin !== bMin) return aMin - bMin;
       }
     }
 
-    if (aTaiwanRanks.length === 0 && bTaiwanRanks.length === 0) {
-      const aTranco = a.rank.tranco !== undefined ? a.rank.tranco : Infinity;
-      const bTranco = b.rank.tranco !== undefined ? b.rank.tranco : Infinity;
-      if (aTranco !== bTranco) {
-        return aTranco - bTranco;
-      }
+    const aTranco = a.rank.tranco !== undefined ? a.rank.tranco : Infinity;
+    const bTranco = b.rank.tranco !== undefined ? b.rank.tranco : Infinity;
+    if (aTranco !== bTranco) {
+      return aTranco - bTranco;
     }
 
     return a.website.localeCompare(b.website);

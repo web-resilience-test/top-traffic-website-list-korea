@@ -8,11 +8,13 @@
     "ahrefs": "node fetch-ahrefs.js",
     "similarweb": "node fetch-similarweb.js",
     "semrush": "node fetch-semrush.js",
+    "crux": "node fetch-crux.js",
     "merge": "node merge-lists.js"
   },
   "author": "Irvin Chen",
   "license": "CC0-1.0",
   "dependencies": {
+    "@google-cloud/bigquery": "^8.3.1",
     "adm-zip": "^0.5.10",
     "dotenv": "^17.2.3"
   }
